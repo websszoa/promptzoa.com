@@ -1,0 +1,17 @@
+{
+  "Header": {
+    "logo": "Prompt.zoa",
+    "getStarted": "始める"
+  },
+  "Hero": {
+    "title": "1枚の写真、無数のストーリー。",
+    "description": "1枚の写真に自分だけのスタイルと想像力を加え、無限のイメージを生み出すAI画像プラットフォーム。"
+  },
+  "PromptDetail": {
+    "back": "戻る",
+    "promptLabel": "プロンプト",
+    "variationsLabel": "バリエーションプロンプト",
+    "copy": "コピー",
+    "copied": "コピーしました！"
+  }
+}

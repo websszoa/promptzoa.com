@@ -1,0 +1,17 @@
+{
+  "Header": {
+    "logo": "Prompt.zoa",
+    "getStarted": "시작하기"
+  },
+  "Hero": {
+    "title": "한 장의 사진, 수많은 이야기",
+    "description": "사진 하나로 나만의 스타일과 상상력을 더해 무한한 이미지를 만들어주는 AI 이미지 플랫폼."
+  },
+  "PromptDetail": {
+    "back": "돌아가기",
+    "promptLabel": "프롬프트",
+    "variationsLabel": "배경 변형 프롬프트",
+    "copy": "복사",
+    "copied": "복사됨!"
+  }
+}

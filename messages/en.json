@@ -1,0 +1,17 @@
+{
+  "Header": {
+    "logo": "Prompt.zoa",
+    "getStarted": "Get Started"
+  },
+  "Hero": {
+    "title": "One Photo, Endless Stories.",
+    "description": "An AI image platform that turns a single photo into infinite images — shaped by your own style and imagination."
+  },
+  "PromptDetail": {
+    "back": "Back",
+    "promptLabel": "Prompt",
+    "variationsLabel": "Variation Prompts",
+    "copy": "Copy",
+    "copied": "Copied!"
+  }
+}
