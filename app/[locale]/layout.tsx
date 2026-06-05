@@ -90,7 +90,7 @@ export async function generateMetadata({
       description: meta.description,
       images: [
         {
-          url: "/images/prompt1.webp",
+          url: "/images/prompt-base1.webp",
           width: 960,
           height: 1280,
           alt: "Promptzoa AI Portrait",
@@ -101,7 +101,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title: meta.title,
       description: meta.description,
-      images: ["/images/prompt1.webp"],
+      images: ["/images/prompt-base1.webp"],
     },
     robots: {
       index: true,
