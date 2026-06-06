@@ -238,10 +238,10 @@ export const prompts: Prompt[] = [
   {
     id: "5",
     images: [
-      { src: "/images/prompt5-1.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt5-2.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt5-3.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt5-4.jpg", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt5-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt5-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt5-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt5-4.webp", ai: "ChatGPT Image 2.0" },
     ],
     en: {
       title: "Rain Glass",
@@ -277,16 +277,20 @@ export const prompts: Prompt[] = [
         "背景は夜に走る車の中に設定され、カメラの最前面には雨滴が素早く流れ落ちる自動車の窓ガラスがレイヤーとして位置する。窓の向こうにぼんやりと滲む都市のネオンの明かりと街灯が背景でボケとして広がり映画的な奥行きを作り出す。人物は窓に顔を軽く凭せかけ目を伏せて遠くを見つめる内省的で孤独なポーズをとる。雨滴は窓の表面を素早く流れ落ちるが人物の顔は窓の向こうで歪みなく完全にシャープに維持され、都市の明かりのアンバーとブルーの色合いが人物の肌の上に微かに反射する。髪は完全に下ろされてシートに自然に凭れながら流れ落ちる。",
         "前面のガラスレイヤーに雨滴とともに白い花びらや赤いバラの花びらがガラス表面に不規則に貼り付いている。花びらは水に濡れて半透明にガラスに密着しており、一部はシャープに一部はアウトフォーカスに処理されて前面レイヤーの視覚的な豊かさを作り出す。花びらと雨滴が重なったガラスの向こうで人物の顔は歪みなく完全にシャープに保存され、花びらの赤色または白色が人物の肌のトーンと美しい色感のコントラストをなす。髪は完全に下ろされて肩より下まで自然に流れ落ち、花びら一枚か二枚が髪の上に自然に乗っている。",
       ],
-      tags: ["レイングラス", "ビューティークローズアップ", "ダークビューティー"],
+      tags: [
+        "レイングラス",
+        "ビューティークローズアップ",
+        "ダークビューティー",
+      ],
     },
   },
   {
     id: "6",
     images: [
-      { src: "/images/prompt6-1.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt6-2.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt6-3.jpg", ai: "ChatGPT Image 2.0" },
-      { src: "/images/prompt6-4.jpg", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt6-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt6-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt6-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt6-4.webp", ai: "ChatGPT Image 2.0" },
     ],
     en: {
       title: "Urban Motion Editorial",
@@ -325,16 +329,124 @@ export const prompts: Prompt[] = [
         "背景は大型国際空港ターミナルの内部に変わり、広いガラス天井から注ぎ込む自然光が空間を満たす。人物はターミナル中央通路の真ん中に一人立ち、両側にキャリーケースを引いた搭乗客が強いモーションブラーで通り過ぎる。出発案内板と空港インフラ要素が背景に適度にシャープに維持されて空間感を加える。人物はクラッチバッグを片手に持ち、もう片方の手で髪を軽く払うような即興的なジェスチャーをとり、髪は完全に下ろされて肩の上に自然に流れ落ちる。空港の明るくクールな自然光がレッドの衣装全体をシャープで激しく浮かび上がらせる。",
         "背景は早朝に賑やかに開く都心の伝統市場またはフラワーマーケットの路地に変わり、商人たちが荷車や箱を素早く運ぶ様子が強いモーションブラーで処理される。夜明け特有の冷たく青みがかった空気と時折点く黄色い市場の照明が混ざり合い独特の夜明けのカラーキャストを作り出す。人物は路地の真ん中に一人立って片足をわずかに前に出し、クラッチを両手で胸の前に軽く持ちながらカメラを見つめる落ち着いた存在感のあるポーズをとる。夜明けの青い空気の中でレッドの衣装がより一層強く際立ち、髪は完全に下ろされて夜明けの涼しい空気の中に自然にたなびく。",
       ],
-      tags: ["アーバンエディトリアル", "レッドファッション", "シティモーション"],
+      tags: [
+        "アーバンエディトリアル",
+        "レッドファッション",
+        "シティモーション",
+      ],
+    },
+  },
+  {
+    id: "7",
+    images: [
+      { src: "/images/prompt7-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt7-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt7-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt7-4.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt7-5.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt7-6.webp", ai: "ChatGPT Image 2.0" },
+    ],
+    en: {
+      title: "Modern Studio Portrait",
+      prompt:
+        "Use the subject from the reference photo as the main subject. The facial features, hairstyle, skin tone, and expression must be kept perfectly unchanged, and all realism, emotional depth, and subtle facial lighting must be preserved without any alteration. Changes are permitted only in camera angle, background, movement, and atmosphere. The scene is a vertical medium-shot studio portrait, where the woman sits at the edge of an old wood table or low wooden platform with her upper body gently turned toward the camera. One or both hands rest naturally on the table, with multiple silver rings on the fingers. The gaze directly and strongly faces the camera, with an expression that is cool and restrained yet carries deep inner emotion in a complex gaze. The overall mood is a modern editorial sensibility where dark intelligence, quiet strength, and deep inner world coexist. The outfit is a layered style. Underneath is a black sleeveless turtleneck top worn fitted, made of ribbed knit fabric that wraps the neckline high and cleanly defines the body line. Over this is a dark flannel check overshirt in deep green, brown, and black, worn loosely and asymmetrically with the shirt not fully buttoned, draping from both shoulders and loosely wrapping the arms. Gold button details add an accent on the flannel fabric. The bottom is black matte leggings or slim pants, completing the entire look in a dark unified manner. The accessories include multiple silver band rings on several fingers and small silver hoop earrings. The hair is deep dark brown, full, long, and naturally waved, completely let down and flowing freely below the shoulders. The parting falls naturally and the hair texture and volume are alive, maintaining a natural texture that is not overly styled. The dark brown hair creates rich depth between the muted gray background and the black outfit. The background is a textured studio backdrop in muted blue-gray or washed slate gray, with an irregular painted canvas texture like brushstrokes rather than a uniform surface. The background vignettes naturally darker around the subject and brightens slightly toward the center in a gradient. The lighting is classic studio portrait lighting, with a large softbox serving as the main light source from one side, creating soft and sculptural chiaroscuro on the face. The shadows fall naturally without being fully suppressed, emphasizing the three-dimensionality and depth of the face. The skin retains a natural sheen with actual skin texture preserved without excessive retouching. The overall lighting quality is warm and cinematic, referencing classic magazine portrait studio lighting. The camera uses an 85mm portrait lens at f/1.8 to f/2.8 depth of field, keeping the subject sharp while softly separating the background. The rendering is sharp and detailed, with natural micro-contrast and subtle film grain completing an organic quality without digital excess. The color palette is dominated by deep dark brown hair, black outfit, dark green-brown flannel check, and muted gray background — an overall dark, deep, and restrained tone. The warm ivory skin tone and silver jewelry provide delicate accents within the dark palette. The overall aesthetic references high-end celebrity studio portrait editorials from Vanity Fair, The Sunday Times Style, and W Magazine.",
+      variations: [
+        "The background shifts from the muted gray studio to an industrial warehouse space with old exposed brick or concrete walls, where the rough reddish-brown brick texture naturally blends with the green-brown tones of the dark flannel check. The subject sits diagonally on an old wood chair in front of the wall with one elbow resting on the chair back and fingers drawn close to the chin in an intellectual and relaxed posture. The hair is completely let down and flows naturally over the shoulders, and the natural light entering from the side creates dramatic chiaroscuro on the brick texture and hair.",
+        "The background is set as a dark wood library packed tightly with old books, where soft, cold natural light from an overcast day streams dramatically through a large window and falls on one side of the subject's face. The subject sits at the edge of a low wood shelf or window seat near the window, one hand resting lightly on the window frame, in a contemplative and cinematic posture as if slowly turning the gaze from outside back to the camera. The hair is completely let down and comes alive with rich deep brown hues in the window light, while the flannel shirt loosely drapes off the shoulder, naturally blending with the cold air of the window setting.",
+        "The background is set inside an old theater or cinema, where red velvet seats, low gold decorative lighting, and a stage curtain dimly visible in the darkness add classic and dramatic depth. The subject rests one hand on the armrest of a front-row seat with the body slightly turned toward the camera, leaning back against the seat in a confident and relaxed posture. The theater's characteristic low warm amber lighting warmly envelops one side of the subject's face while the other side falls into deep shadow, creating strong chiaroscuro contrast. The hair is completely let down, and the deep red of the velvet seats and the dark brown hair create a dramatic color harmony.",
+        "The background is set at an old café window on a rainy day, where blurred street lights and rain-soaked city scenery softly spread as bokeh beyond the rain-streaked window. The subject sits at a wooden table by the window with both hands naturally resting on the table, in an inward and solitary posture turning the gaze from outside to the camera. The cold, diffused natural light of the rain settles softly on the subject's face through the window, and the dark green-brown check pattern of the flannel shirt creates a deep color harmony with the warm wood interior of the café. The hair is completely let down, completing a quiet and emotional atmosphere as if the sound of rain could be heard.",
+        "The background is set in a dark coniferous forest at dusk, where the last golden light filtering through the trees and the deep blue-green forest air envelop the subject. The subject stands beside an old thick tree trunk with one hand lightly placed on the tree, body slightly turned toward the camera, delivering a cool and strong gaze. The dark green-brown check of the flannel shirt perfectly merges with the colors of the forest, creating an organic composition where the subject feels like a part of nature. The hair is completely let down and naturally blown to one side by the evening forest breeze, while the last light of dusk creates a deep and dramatic golden rim light on the hair and skin.",
+      ],
+      tags: ["modern studio portrait", "dark editorial", "flannel style"],
+    },
+    ko: {
+      title: "모던 스튜디오 포트레이트",
+      prompt:
+        "레퍼런스 사진 속 인물을 메인 피사체로 사용합니다. 얼굴 특징, 헤어스타일, 피부 톤, 표정을 완벽하게 그대로 유지하며, 현실감과 감정적 깊이, 미묘한 얼굴 조명도 일체 변경 없이 보존합니다. 변경이 허용되는 요소는 카메라 앵글, 배경, 움직임, 분위기뿐입니다. 장면은 세로형 미디엄 샷 스튜디오 포트레이트로, 여성은 낡은 우드 테이블 또는 낮은 목재 플랫폼 끝에 앉아 있으며 상체는 카메라를 향해 부드럽게 틀어져 있습니다. 한 손 또는 양손이 테이블 위에 자연스럽게 내려놓여 있으며 손가락에는 여러 개의 실버 링이 착용되어 있습니다. 시선은 카메라를 직접적이고 강하게 응시하며 표정은 냉정하고 절제되어 있으나 내면에 깊은 감정이 담긴 복합적인 눈빛입니다. 전체적인 무드는 어둡고 지적이며 조용한 강인함과 깊은 내면이 공존하는 모던 에디토리얼 감성입니다. 의상은 레이어드 스타일입니다. 안에는 블랙 슬리브리스 터틀넥 탑을 피팅하게 입으며, 목선을 높게 감싸는 리브 니트 소재로 몸의 라인을 깔끔하게 잡아줍니다. 겉에는 딥 그린, 브라운, 블랙이 조합된 다크 플란넬 체크 오버셔츠를 걸치며, 셔츠는 완전히 여미지 않고 양쪽 어깨에서 흘러내린 채 팔을 감싸는 느슨하고 비대칭적인 방식으로 착용됩니다. 골드 버튼 디테일이 플란넬 소재 위에 포인트를 더합니다. 하의는 블랙 매트 레깅스 또는 슬림 팬츠로 전체 룩을 다크하고 통일감 있게 마무리합니다. 액세서리는 여러 개의 실버 밴드 링이 손가락 여러 곳에 착용되어 있으며 귀에는 작은 실버 후프 이어링이 달려 있습니다. 헤어는 딥 다크 브라운의 풍성하고 길고 자연스러운 웨이브로, 완전히 풀어 내려 어깨 아래로 자유롭게 흘러내립니다. 가르마는 자연스럽게 나 있으며 헤어의 결과 볼륨이 살아있고 과도하게 세팅되지 않은 자연스러운 텍스처가 유지됩니다. 다크 브라운 헤어가 배경의 뮤트 그레이와 블랙 의상 사이에서 풍부한 깊이감을 만들어냅니다. 배경은 뮤트 블루 그레이 또는 워시드 슬레이트 그레이 계열의 텍스처드 스튜디오 배경으로, 균일하지 않고 붓으로 칠한 듯한 불규칙한 페인티드 캔버스 질감이 살아있습니다. 배경은 인물 주변에서 자연스럽게 더 어둡게 비네팅되며 중앙으로 갈수록 살짝 밝아지는 그라데이션이 적용됩니다. 조명은 클래식 스튜디오 포트레이트 조명으로, 큰 소프트박스가 인물의 한쪽 측면에서 주 광원 역할을 하며 얼굴에 부드럽고 조각적인 명암을 만들어냅니다. 섀도우는 완전히 억제되지 않고 자연스럽게 떨어져 얼굴의 입체감과 깊이감을 강조합니다. 피부에는 자연스러운 광택이 살아있으며 과도하게 리터칭되지 않은 실제 피부 텍스처가 유지됩니다. 전체적인 조명 퀄리티는 따뜻하고 영화적이며 고전적인 잡지 포트레이트 스튜디오 라이팅을 레퍼런스로 합니다. 카메라는 85mm 포트레이트 렌즈에 f/1.8에서 f/2.8 심도로 촬영하며, 인물은 선명하게 유지하고 배경은 부드럽게 분리합니다. 렌더링은 선명하고 디테일하며 자연스러운 마이크로 컨트라스트와 미묘한 필름 그레인이 더해져 디지털 과도함 없이 유기적인 품질을 완성합니다. 색감 팔레트는 딥 다크 브라운 헤어, 블랙 의상, 다크 그린 브라운 플란넬 체크, 뮤트 그레이 배경의 조합으로 전체적으로 어둡고 깊으며 절제된 톤이 지배합니다. 피부의 웜 아이보리 톤과 실버 주얼리가 다크한 팔레트 속에서 섬세한 포인트를 이룹니다. 전체적인 미학은 배니티 페어, 더 선데이 타임즈 스타일, W 매거진의 하이엔드 셀러브리티 스튜디오 포트레이트 에디토리얼을 레퍼런스로 합니다.",
+      variations: [
+        "배경은 뮤트 그레이 스튜디오 대신 오래된 노출 벽돌 또는 콘크리트 벽이 있는 인더스트리얼 창고 공간으로 바뀌며, 거친 적갈색 벽돌 텍스처가 다크 플란넬 체크의 그린 브라운 톤과 자연스럽게 어우러집니다. 인물은 벽 앞에 놓인 낡은 우드 의자에 비스듬히 앉아 한쪽 팔꿈치를 의자 등받이에 올리고 손가락을 턱 가까이 가져가는 지적이고 여유로운 자세를 취합니다. 머리카락은 완전히 풀어 내려 어깨 위로 자연스럽게 흘러내리며, 측면에서 들어오는 자연광이 벽돌 텍스처와 헤어에 드라마틱한 명암을 만들어냅니다.",
+        "배경은 오래된 책들이 빼곡히 꽂힌 다크 우드 서재로 설정되며, 큰 창문을 통해 흐린 날의 부드럽고 차가운 자연광이 인물의 한쪽 얼굴에 드라마틱하게 내려앉습니다. 인물은 창가 낮은 우드 선반 또는 윈도우 시트 끝에 앉아 한 손을 창틀에 가볍게 올리고 시선을 창밖에서 천천히 카메라로 돌리는 듯한 사색적이고 영화적인 자세를 취합니다. 머리카락은 완전히 풀어 내려 창문 빛을 받아 딥 브라운의 풍부한 색감이 살아나며, 플란넬 셔츠가 어깨에서 느슨하게 흘러내려 창가의 차가운 공기감과 자연스럽게 어우러집니다.",
+        "배경은 오래된 극장 또는 시네마 내부로 설정되며, 빨간 벨벳 시트와 낮은 골드 장식 조명, 어둠 속에 희미하게 보이는 무대 커튼이 배경에 클래식하고 드라마틱한 깊이감을 더합니다. 인물은 앞줄 시트 팔걸이 위에 한 손을 올리고 몸을 카메라 방향으로 살짝 틀어 등받이에 기대는 자신감 있고 여유로운 자세를 취합니다. 극장 특유의 낮고 따뜻한 앰버 조명이 인물의 얼굴 한쪽을 따뜻하게 감싸고 반대쪽은 깊은 섀도우로 처리되어 강한 명암 대비를 만들어냅니다. 머리카락은 완전히 풀어 내려 벨벳 시트의 딥 레드와 다크 브라운 헤어가 극적인 색감의 조화를 이룹니다.",
+        "배경은 비 내리는 날 오래된 카페 창가로 설정되며, 빗방울이 흘러내리는 창문 너머로 흐릿한 거리 불빛과 빗속 도시 풍경이 부드럽게 보케로 퍼집니다. 인물은 창가 나무 테이블에 앉아 양손을 테이블 위에 자연스럽게 올리고 창밖을 바라보다 카메라로 시선을 돌리는 내면적이고 고독한 자세를 취합니다. 빗속의 차갑고 확산된 자연광이 창문을 통해 인물의 얼굴에 부드럽게 내려앉으며, 플란넬 셔츠의 다크 그린 브라운 체크 패턴이 카페의 따뜻한 우드 인테리어와 깊은 색감의 조화를 이룹니다. 머리카락은 완전히 풀어 내려 빗소리가 들릴 것 같은 조용하고 감성적인 분위기를 완성합니다.",
+        "배경은 황혼 무렵의 어두운 침엽수 숲으로 설정되며, 나무 사이로 스며드는 마지막 황금빛과 딥 블루 그린의 숲 공기가 인물 주변을 감쌉니다. 인물은 오래된 굵은 나무 기둥 옆에 서서 한 손을 나무에 가볍게 올리고 몸을 카메라 방향으로 살짝 틀어 시선을 냉정하고 강하게 던지는 자세를 취합니다. 플란넬 셔츠의 다크 그린 브라운 체크가 숲의 색감과 완벽하게 녹아들며 인물이 자연의 일부처럼 느껴지는 유기적인 구도를 만들어냅니다. 머리카락은 완전히 풀어 내려 숲의 저녁 바람에 한쪽으로 자연스럽게 흩날리며, 황혼의 마지막 빛이 헤어와 피부에 깊고 드라마틱한 골든 림 라이트를 만들어냅니다.",
+      ],
+      tags: ["모던스튜디오포트레이트", "다크에디토리얼", "플란넬스타일"],
+    },
+    ja: {
+      title: "モダンスタジオポートレート",
+      prompt:
+        "参照写真の人物をメイン被写体として使用する。顔の特徴、ヘアスタイル、肌のトーン、表情を完璧にそのまま維持し、リアリティ、感情的な深み、微妙な顔の照明も一切変更なく保存する。変更が許可されるのはカメラアングル、背景、動き、雰囲気のみ。縦型ミディアムショットのスタジオポートレートで、女性は古いウッドテーブルまたは低い木製プラットフォームの端に座り、上半身はカメラに向かって柔らかくひねられている。片手または両手がテーブルの上に自然に置かれており、指には複数のシルバーリングが着用されている。視線はカメラを直接的に強く見つめ、表情は冷静で抑制されているが内面に深い感情が込められた複雑な眼差し。全体的なムードは、暗く知的であり、静かな強さと深い内面が共存するモダンエディトリアル感性。衣装はレイヤードスタイル。インナーはブラックのスリーブレスタートルネックトップをフィットして着用し、首元を高く包むリブニット素材で体のラインをすっきりと整える。アウターはディープグリーン、ブラウン、ブラックが組み合わさったダークフランネルチェックのオーバーシャツを羽織り、シャツは完全にボタンを留めず両肩から流れ落ちて腕を包む緩くて非対称的な着方をしている。ゴールドボタンのディテールがフランネル素材にアクセントを加える。ボトムスはブラックマットのレギンスまたはスリムパンツで全体のルックをダークで統一感をもって仕上げる。アクセサリーは複数のシルバーバンドリングを複数の指に着用し、耳には小さなシルバーフープピアスが付いている。ヘアはディープダークブラウンの豊かで長く自然なウェーブで、完全に下ろして肩の下まで自由に流れ落ちる。分け目は自然に入っておりヘアの質感とボリュームが生きており、過度にセットされていない自然なテクスチャが維持される。ダークブラウンのヘアが背景のミュートグレーとブラックの衣装の間で豊かな奥行きを作り出す。背景はミュートブルーグレーまたはウォッシュドスレートグレー系のテクスチャードスタジオ背景で、均一でなくブラシで描いたような不規則なペインテッドキャンバスの質感が生きている。背景は人物の周りで自然により暗くビネッティングされ、中央に向かうほどわずかに明るくなるグラデーションが適用される。照明はクラシックなスタジオポートレート照明で、大きなソフトボックスが人物の片側から主光源として機能し、顔に柔らかく彫刻的な明暗を作り出す。シャドウは完全に抑制されず自然に落ちて顔の立体感と奥行きを強調する。肌には自然な光沢が生きており、過度にレタッチされていない実際の肌テクスチャが維持される。全体的な照明クオリティは温かく映画的であり、クラシックな雑誌ポートレートのスタジオライティングをレファレンスにしている。カメラは85mmポートレートレンズでf/1.8からf/2.8の被写界深度で撮影し、人物はシャープに維持しながら背景を柔らかく分離する。レンダリングはシャープで詳細であり、自然なマイクロコントラストと微妙なフィルムグレインが加わってデジタルの過剰さなしに有機的な品質を完成させる。カラーパレットはディープダークブラウンのヘア、ブラックの衣装、ダークグリーンブラウンのフランネルチェック、ミュートグレーの背景の組み合わせで、全体的に暗く深く抑制されたトーンが支配する。肌のウォームアイボリートーンとシルバーのジュエリーがダークなパレットの中で繊細なアクセントをなす。全体的な美学はバニティフェア、ザ・サンデー・タイムズ・スタイル、W マガジンのハイエンドセレブリティスタジオポートレートエディトリアルをレファレンスにしている。",
+      variations: [
+        "背景はミュートグレーのスタジオの代わりに古い露出レンガまたはコンクリートの壁があるインダストリアルな倉庫空間に変わり、荒い赤褐色のレンガテクスチャがダークフランネルチェックのグリーンブラウントーンと自然に溶け合う。人物は壁の前に置かれた古いウッドチェアに斜めに座り、片方の肘を椅子の背もたれに乗せて指先を顎の近くに持っていく知的で余裕のあるポーズをとる。髪は完全に下ろされて肩の上に自然に流れ落ち、横から差し込む自然光がレンガのテクスチャと髪にドラマティックな明暗を作り出す。",
+        "背景は古い本がびっしりと詰まったダークウッドの書斎に設定され、大きな窓を通して曇りの日の柔らかく冷たい自然光が人物の片側の顔にドラマティックに降り注ぐ。人物は窓際の低いウッド棚またはウィンドウシートの端に座り、片手を窓枠に軽く乗せて視線を窓の外からゆっくりカメラへと向けるような物思いにふける映画的なポーズをとる。髪は完全に下ろされて窓の光を受けてディープブラウンの豊かな色感が生き、フランネルシャツが肩から緩く流れ落ちて窓際の冷たい空気感と自然に溶け合う。",
+        "背景は古い劇場またはシネマの内部に設定され、赤いベルベットシートと低いゴールドの装飾照明、暗闇の中にぼんやりと見えるステージカーテンが背景にクラシックでドラマティックな奥行きを加える。人物は前列シートの肘掛けに片手を乗せ、体をカメラ方向にわずかにひねって背もたれに凭れる自信があり余裕のあるポーズをとる。劇場特有の低く温かいアンバー照明が人物の顔の片側を温かく包み込み、反対側は深いシャドウで処理されて強い明暗対比を作り出す。髪は完全に下ろされ、ベルベットシートのディープレッドとダークブラウンのヘアが劇的な色感の調和をなす。",
+        "背景は雨の日の古いカフェの窓際に設定され、雨滴が流れ落ちる窓の向こうにぼんやりとした街の明かりと雨の都市風景が柔らかくボケとして広がる。人物は窓際の木製テーブルに座り両手をテーブルの上に自然に置いて窓の外を見つめてからカメラに視線を向ける内省的で孤独なポーズをとる。雨の冷たく拡散した自然光が窓を通して人物の顔に柔らかく降り注ぎ、フランネルシャツのダークグリーンブラウンのチェックパターンがカフェの温かいウッドインテリアと深い色感の調和をなす。髪は完全に下ろされ、雨音が聞こえそうな静かで感情的な雰囲気を完成させる。",
+        "背景は夕暮れ時の暗い針葉樹の森に設定され、木々の間から差し込む最後の黄金の光とディープブルーグリーンの森の空気が人物の周りを包む。人物は古い太い木の幹の横に立ち、片手を木に軽く置いて体をカメラ方向にわずかにひねって冷静で強い視線を投げかけるポーズをとる。フランネルシャツのダークグリーンブラウンのチェックが森の色感と完璧に溶け合い、人物が自然の一部のように感じられる有機的な構図を作り出す。髪は完全に下ろされて森の夕方の風に片方へ自然になびき、夕暮れの最後の光がヘアと肌に深くドラマティックなゴールデンリムライトを作り出す。",
+      ],
+      tags: [
+        "モダンスタジオポートレート",
+        "ダークエディトリアル",
+        "フランネルスタイル",
+      ],
+    },
+  },
+  {
+    id: "8",
+    images: [
+      { src: "/images/prompt8-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt8-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt8-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt8-4.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt8-5.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt8-6.webp", ai: "ChatGPT Image 2.0" },
+    ],
+    en: {
+      title: "Oriental Luxury Editorial",
+      prompt:
+        "Use the subject from the reference photo as the main subject. The facial features, hairstyle, skin tone, and expression must be kept perfectly unchanged, and all realism, emotional depth, and subtle facial lighting must be preserved without any alteration. Changes are permitted only in camera angle, background, movement, and atmosphere. The scene is a horizontal or vertical medium close-up editorial portrait, where the subject lies on their back on a floor or low surface covered with lush fabrics and cushions, with the camera shooting from a top-down angle directly above the subject. One hand is raised beside the face, lightly holding a pencil or thin object between the fingers, while the other hand rests naturally on the abdomen. The eyes are slightly half-closed with an expression that is dreamy, sensual, and radiates complete relaxed confidence. The overall mood is sensual and exotic, filled with the deep and rich sensibility of Oriental Bohemian luxury. The makeup is intense and dramatic Bohemian beauty style. The eyes feature a full eye smoky shadow in deep crimson red or magenta red, densely filling the entire eyelid from above the upper lid down below the eye with deep, intense blending. The lashes are voluminous and dramatically curled. The lips are expressed strongly and vividly in deep burgundy or dark wine red in a matte or semi-matte finish. The skin is a bright and luminous porcelain white tone, creating a dramatic contrast with the intense red makeup. The hair is full, long golden blonde waves, completely let down and freely spread in all directions. The hair radiates outward over the fabric as if floating in water or blown by wind, arranged naturally and with volume. The blonde hair spreading over deep red fabric creates an intense color contrast. The outfit is a Bohemian style patterned dress or top combining deep crimson red and black, in a knit or jacquard fabric with repeating all-over small geometric or floral patterns, with a black velvet belt or waist detail emphasizing the waist. The sleeves are long with added lace or sheer fabric details completing the Bohemian romantic feel. The accessories are rich and layered Bohemian style — around the neck, a choker necklace with deep red or burgundy gemstones is layered with multiple long necklaces mixing hematite beads, gold pendants, and pearls. The ears feature long drop earrings combining gold and deep red gemstones. Gold band rings are worn on the fingers, and the wrists show Bohemian style bracelets with feather decorations. The background is filled with lush and layered fabrics enveloping the subject — deep crimson red damask or jacquard fabric, gray leopard print velvet, multi-color kilim or Persian rug pattern, pink magenta silk — richly layered filling the entire background. The fabrics are naturally creased and draped with cushions, with tassel and fringe details of Oriental carpets visible at the edges. The lighting is warm, low-key amber studio lighting creating dramatic and sculptural chiaroscuro on the subject's face. The deep red and magenta fabric colors reflect in the lighting, adding a warm and sensual color cast around the subject. The shadows are deep and rich, with the subject's porcelain skin and dramatic makeup intensely highlighted against the dark background. The camera uses a 50mm to 85mm lens at f/2.0 to f/2.8 depth of field from a top-down angle, keeping the subject's face and upper body sharp while naturally out-focusing the surrounding fabrics. The rendering is completed with rich and saturated color, strong micro-contrast, and a refined fashion editorial finish. The color palette centers on deep crimson red, burgundy, magenta, black, and golden blonde, with gray leopard and multi-color kilim patterns adding layers. The overall aesthetic references Oriental Bohemian luxury, 70s rock star sensibility, and the exotic and sensual world of high-end fashion editorial.",
+      variations: [
+        "The background shifts to the interior of a traditional Moroccan riad, where intricate arabesque tile floors, muqarnas decorated ceilings, and low cushion sofas fill the space. The subject reclines diagonally on a low diwan sofa embroidered with deep red and gold, supporting the body with one elbow while the other hand rests naturally on the fabric. The warm amber light of Moroccan lanterns casts lattice patterns throughout the space, and the blonde hair is completely let down and luxuriantly spread over the cushions. A dreamy and exotic atmosphere is completed as if incense smoke gently rises through the space.",
+        "The background shifts to a dark classic interior with deep burgundy velvet wallpaper, gold baroque decorative frames, and low-lit candlelight filling the space with a deep and dramatic dark luxury mood. The subject reclines in an oversized deep red velvet armchair with one leg draped over the side in a queenly, confident, and sensual posture, with one hand extending along the armrest. The blonde hair is completely let down and flows over the velvet chair, and the warm golden candlelight sensually highlights the porcelain skin and dramatic red makeup.",
+        "The background is set inside a luxurious Bedouin-style desert tent, where thick kilim rugs and Persian cushions cover the floor and golden lanterns and tassel decorations hang from the tent ceiling. The golden evening desert light filters in at an angle through the tent entrance, creating warm and dramatic beams of light within the space. The subject lies on lush kilim rugs and cushions photographed from a top-down angle, with blonde hair completely let down and spread radially over the rug, creating an intense color contrast of gold and red. The golden desert light and amber lantern light mix to warmly color the porcelain skin.",
+        "The background shifts from lush fabrics to a bed of flowers filled with deep red roses, burgundy peonies, and dark cherry dahlias, with the subject lying among the flowers photographed from a top-down angle. Petals are naturally scattered around the subject's body and through the hair, and the blonde hair is completely let down and spreads radially among the red flowers, creating a dramatic color contrast of blonde and deep red. One hand lightly holds a single flower raised beside the face, and the dramatic red smoky makeup resonates perfectly with the color of the flowers. Soft natural diffused light settles evenly on the flowers and skin to complete a dreamy and lyrical atmosphere.",
+        "The background shifts to an Oriental bazaar or grand market at night, where golden lanterns, piles of silk fabrics, and spice and carpet stalls create a rich and exotic atmosphere. The subject lies on a low wooden platform or pile of carpets in the middle of the bazaar photographed from a top-down angle, with colorful silk scarves and tassel decorations scattered around. The warm lantern light of the bazaar colors the space golden, warmly reflecting on the porcelain skin and gold jewelry. The blonde hair is completely let down and freely spread over the carpets and silk fabrics, and the dramatic red smoky makeup perfectly harmonizes with the exotic and sensual energy of the bazaar.",
+      ],
+      tags: ["bohemian editorial", "oriental luxury", "crimson fashion"],
+    },
+    ko: {
+      title: "오리엔탈 럭셔리 에디토리얼",
+      prompt:
+        "레퍼런스 사진 속 인물을 메인 피사체로 사용합니다. 얼굴 특징, 헤어스타일, 피부 톤, 표정을 완벽하게 그대로 유지하며, 현실감과 감정적 깊이, 미묘한 얼굴 조명도 일체 변경 없이 보존합니다. 변경이 허용되는 요소는 카메라 앵글, 배경, 움직임, 분위기뿐입니다. 장면은 가로형 또는 세로형 미디엄 클로즈업 에디토리얼 포트레이트로, 인물은 풍성한 직물과 쿠션들이 가득한 바닥 또는 낮은 침상 위에 등을 대고 누워 있으며 카메라는 인물 바로 위에서 아래를 내려다보는 탑다운 앵글로 촬영합니다. 한 손은 얼굴 옆으로 들어 올려 손가락 사이에 펜슬 또는 가느다란 오브제를 가볍게 쥐고 있으며, 다른 손은 복부 위에 자연스럽게 내려놓습니다. 눈은 살짝 반쯤 감겨 있으며 표정은 몽환적이고 관능적이며 완전히 이완된 자신감이 느껴집니다. 전체적인 무드는 관능적이고 이국적이며 오리엔탈 보헤미안 럭셔리의 깊고 풍부한 감성이 가득합니다. 메이크업은 강렬하고 드라마틱한 보헤미안 뷰티 스타일입니다. 눈에는 딥 크림슨 레드 또는 마젠타 레드 계열의 풀 아이 스모키 섀도우가 눈두덩이 전체를 가득 채우며, 눈꺼풀 위부터 눈 아래까지 깊고 강렬하게 블렌딩되어 있습니다. 속눈썹은 풍성하고 드라마틱하게 컬링되어 있습니다. 입술은 딥 버건디 또는 다크 와인 레드 계열의 매트 또는 세미 매트 마감으로 강하고 선명하게 표현됩니다. 피부는 밝고 발광하는 포세린 화이트 톤으로 드라마틱한 레드 메이크업과 극명한 대비를 이룹니다. 헤어는 풍성하고 긴 골든 블론드 웨이브로, 완전히 풀어 내려 사방으로 자유롭게 퍼져 있습니다. 머리카락은 직물 위로 방사형으로 펼쳐지며 마치 물속에 떠 있거나 바람에 흩날린 것처럼 자연스럽고 볼륨감 있게 배치됩니다. 블론드 헤어가 딥 레드 직물 위에 퍼지며 강렬한 색감 대비를 만들어냅니다. 의상은 딥 크림슨 레드와 블랙의 조합으로 구성된 보헤미안 스타일의 패턴 드레스 또는 탑입니다. 올오버 소형 기하학적 또는 플로럴 패턴이 반복되는 니트 또는 자카드 소재이며, 블랙 벨벳 벨트 또는 와이스트 디테일이 허리를 강조합니다. 소매는 길고 레이스 또는 시어 소재의 디테일이 더해져 있어 보헤미안 낭만적인 느낌을 완성합니다. 액세서리는 풍부하고 레이어드된 보헤미안 스타일로 구성됩니다. 목에는 딥 레드 또는 버건디 컬러의 젬스톤이 달린 초커 네클리스와 함께 롱 레이어드 네클리스가 여러 겹으로 겹쳐져 있으며, 헤마타이트 비즈와 골드 펜던트, 진주 등 다양한 소재가 혼합됩니다. 귀에는 골드와 딥 레드 젬스톤이 조합된 롱 드롭 이어링이 달려 있습니다. 손가락에는 골드 밴드 링이 착용되어 있으며, 손목과 팔에는 페더 장식이 달린 보헤미안 스타일의 브레이슬릿이 보입니다. 배경은 인물을 완전히 감싸는 풍성하고 레이어드된 직물들로 가득합니다. 딥 크림슨 레드의 다마스크 또는 자카드 직물, 그레이 레오파드 프린트 벨벳, 멀티 컬러 킬림 또는 페르시안 러그 패턴, 핑크 마젠타 실크 등 다양한 텍스처와 패턴의 직물들이 풍성하게 겹쳐져 배경 전체를 채웁니다. 직물들은 쿠션과 함께 자연스럽게 구겨지고 드레이핑되어 있으며, 오리엔탈 카펫의 태슬과 프린지 디테일이 가장자리에 보입니다. 조명은 따뜻하고 낮은 조도의 앰버 스튜디오 조명으로, 인물의 얼굴에 드라마틱하고 조각적인 명암을 만들어냅니다. 딥 레드와 마젠타 직물의 색감이 조명에 반사되어 인물 주변에 따뜻하고 관능적인 컬러 캐스트를 더합니다. 섀도우는 깊고 풍부하며 인물의 포세린 피부와 드라마틱한 메이크업이 어두운 배경 속에서 강렬하게 부각됩니다. 카메라는 50mm에서 85mm 렌즈에 f/2.0에서 f/2.8 심도로 탑다운 앵글에서 촬영하며, 인물의 얼굴과 상체는 선명하게 유지하고 주변 직물들은 자연스럽게 아웃포커스로 처리됩니다. 렌더링은 풍부하고 포화된 컬러와 강한 마이크로 컨트라스트, 세련된 패션 에디토리얼 마감으로 완성됩니다. 색감 팔레트는 딥 크림슨 레드, 버건디, 마젠타, 블랙, 골든 블론드가 중심을 이루며 그레이 레오파드와 멀티 컬러 킬림 패턴이 레이어를 더합니다. 전체적으로 풍부하고 포화되며 관능적인 컬러 감각이 지배합니다. 전체적인 미학은 오리엔탈 보헤미안 럭셔리, 70년대 록 스타 감성, 그리고 하이엔드 패션 에디토리얼의 이국적이고 관능적인 세계를 레퍼런스로 합니다.",
+      variations: [
+        "배경은 모로코 전통 리아드 내부로 바뀌며, 정교한 아라베스크 타일 바닥과 무카르나스 장식 천장, 낮은 쿠션 소파들이 공간을 가득 채웁니다. 인물은 딥 레드와 골드 자수가 놓인 낮은 다이완 소파 위에 비스듬히 기대어 누운 자세에서 한 팔꿈치로 몸을 지지하고 다른 손은 자연스럽게 직물 위에 내려놓습니다. 모로코 란턴의 따뜻한 앰버 불빛이 격자 패턴으로 공간 전체에 드리워지며, 블론드 헤어는 완전히 풀어 내려 쿠션 위로 풍성하게 펼쳐집니다. 인센스 연기가 공간 위로 은은하게 피어오르는 듯한 몽환적이고 이국적인 분위기가 완성됩니다.",
+        "배경은 딥 버건디 벨벳 벽지와 금색 바로크 장식 프레임, 낮은 조도의 촛불 조명이 가득한 어두운 클래식 인테리어로 바뀌며, 공간 전체가 깊고 드라마틱한 다크 럭셔리 무드로 채워집니다. 인물은 오버사이즈 딥 레드 벨벳 암체어에 다리를 한쪽으로 걸치고 몸을 비스듬히 기대는 여왕처럼 당당하고 관능적인 자세를 취하며, 한 손은 팔걸이 위에 길게 뻗어 내립니다. 블론드 헤어는 완전히 풀어 내려 벨벳 체어 위로 흘러내리며, 촛불의 따뜻한 골든 불빛이 포세린 피부와 드라마틱한 레드 메이크업을 관능적으로 부각합니다.",
+        "배경은 호화로운 베두인 스타일의 사막 텐트 내부로 설정되며, 두꺼운 킬림 러그와 페르시안 쿠션들이 바닥을 가득 채우고 텐트 천장에서 골드 란턴과 태슬 장식이 늘어져 있습니다. 텐트 입구 사이로 사막의 황금빛 저녁 빛이 비스듬히 스며들어 공간에 따뜻하고 드라마틱한 빛의 줄기를 만들어냅니다. 인물은 풍성한 킬림 러그와 쿠션 위에 누워 있으며 탑다운 앵글로 촬영하고, 블론드 헤어는 완전히 풀어 러그 위로 사방에 퍼져 골드와 레드의 강렬한 색감 대비를 만들어냅니다. 사막의 황금 빛과 란턴의 앰버 조명이 혼합되어 포세린 피부를 따뜻하게 물들입니다.",
+        "배경은 풍성한 직물 대신 딥 레드 장미와 버건디 작약, 다크 체리 달리아가 가득한 꽃밭 또는 꽃으로 덮인 바닥으로 바뀌며, 인물은 꽃들 사이에 누워 탑다운 앵글로 촬영됩니다. 꽃잎들이 인물의 몸 주변과 헤어 사이에 자연스럽게 흩어져 있으며, 블론드 헤어는 완전히 풀어 내려 레드 꽃들 사이로 방사형으로 펼쳐져 블론드와 딥 레드의 극적인 색감 대비를 만들어냅니다. 한 손은 꽃 한 송이를 가볍게 쥐고 얼굴 옆에 들어 올리며, 드라마틱한 레드 스모키 메이크업이 꽃의 색감과 완벽하게 공명합니다. 부드러운 자연 확산광이 꽃과 피부에 고르게 내려앉아 몽환적이고 서정적인 분위기를 완성합니다.",
+        "배경은 밤에 열리는 오리엔탈 바자르 또는 그랜드 마켓으로 바뀌며, 황금빛 란턴과 실크 직물 더미, 향신료와 카펫 노점들이 배경에 풍성하고 이국적인 분위기를 만들어냅니다. 인물은 바자르 한가운데 놓인 낮은 목재 플랫폼 또는 카펫 더미 위에 누워 탑다운 앵글로 촬영되며, 주변에는 다채로운 실크 스카프와 태슬 장식들이 흩어져 있습니다. 바자르의 따뜻한 란턴 빛이 황금빛으로 공간을 물들이며 인물의 포세린 피부와 골드 주얼리 위에 따뜻하게 반사됩니다. 블론드 헤어는 완전히 풀어 내려 카펫과 실크 직물 위로 자유롭게 펼쳐지며, 드라마틱한 레드 스모키 메이크업이 바자르의 이국적이고 관능적인 에너지와 완벽하게 어우러집니다.",
+      ],
+      tags: ["보헤미안에디토리얼", "오리엔탈럭셔리", "크림슨패션"],
+    },
+    ja: {
+      title: "オリエンタルラグジュアリーエディトリアル",
+      prompt:
+        "参照写真の人物をメイン被写体として使用する。顔の特徴、ヘアスタイル、肌のトーン、表情を完璧にそのまま維持し、リアリティ、感情的な深み、微妙な顔の照明も一切変更なく保存する。変更が許可されるのはカメラアングル、背景、動き、雰囲気のみ。横型または縦型のミディアムクローズアップエディトリアルポートレートで、人物は豊かな布地とクッションで満たされた床または低いベッド面に仰向けに横たわり、カメラは人物のすぐ真上からトップダウンアングルで撮影する。片手は顔の横に持ち上げ、指の間に鉛筆または細いオブジェを軽く握り、もう片方の手は腹部の上に自然に置かれている。目はわずかに半分閉じられており、表情は夢幻的で官能的、完全にリラックスした自信が感じられる。全体的なムードは官能的でエキゾチックであり、オリエンタルボヘミアンラグジュアリーの深く豊かな感性に満ちている。メイクアップは強烈でドラマティックなボヘミアンビューティースタイル。目にはディープクリムゾンレッドまたはマゼンタレッド系のフルアイスモーキーシャドウが瞼全体を密に満たし、上瞼の上から目の下まで深く強烈にブレンディングされている。まつ毛は豊かでドラマティックにカールされている。唇はディープバーガンディまたはダークワインレッド系のマットまたはセミマット仕上げで強くくっきりと表現される。肌は明るく輝くポーセリンホワイトのトーンで、強烈なレッドメイクアップと極明なコントラストをなす。ヘアは豊かで長いゴールデンブロンドのウェーブで、完全に下ろされて四方に自由に広がっている。髪は布地の上に水の中に浮かんでいるかのように、または風に吹き散らされたかのように放射状に広がり、自然にボリューム感を持って配置される。ブロンドの髪がディープレッドの布地の上に広がって強烈な色感のコントラストを作り出す。衣装はディープクリムゾンレッドとブラックを組み合わせたボヘミアンスタイルのパターンドレスまたはトップで、オールオーバーの小さな幾何学またはフローラルパターンが繰り返されるニットまたはジャカード素材に、ブラックベルベットのベルトまたはウエストディテールがウエストを強調する。袖は長くレースまたはシア素材のディテールが加えられボヘミアンロマンティックな雰囲気を完成させる。アクセサリーは豊かでレイヤードされたボヘミアンスタイルで構成される。首にはディープレッドまたはバーガンディカラーのジェムストーンが付いたチョーカーネックレスとともにロングレイヤードネックレスが複数重なり、ヘマタイトビーズ、ゴールドペンダント、パールなど様々な素材が混合される。耳にはゴールドとディープレッドのジェムストーンが組み合わさったロングドロップイアリングが付いている。指にはゴールドバンドリングが着用されており、手首と腕にはフェザー装飾付きのボヘミアンスタイルのブレスレットが見える。背景は人物を完全に包む豊かでレイヤードされた布地で満たされている。ディープクリムゾンレッドのダマスクまたはジャカード布地、グレーレオパードプリントベルベット、マルチカラーキリムまたはペルシャラグパターン、ピンクマゼンタシルクなど様々なテクスチャとパターンの布地が豊かに重なり背景全体を満たす。布地はクッションとともに自然に折り畳まれてドレーピングされており、オリエンタルカーペットのタッセルとフリンジのディテールが端に見える。照明は温かく低調度のアンバースタジオ照明で、人物の顔にドラマティックで彫刻的な明暗を作り出す。ディープレッドとマゼンタの布地の色感が照明に反射して人物の周りに温かく官能的なカラーキャストを加える。シャドウは深く豊かであり、人物のポーセリン肌とドラマティックなメイクアップが暗い背景の中で強烈に浮かび上がる。カメラは50mmから85mmレンズでf/2.0からf/2.8の被写界深度でトップダウンアングルから撮影し、人物の顔と上半身はシャープに維持しながら周囲の布地は自然にアウトフォーカスに処理される。レンダリングは豊かでポーレーテッドなカラーと強いマイクロコントラスト、洗練されたファッションエディトリアルの仕上げで完成される。カラーパレットはディープクリムゾンレッド、バーガンディ、マゼンタ、ブラック、ゴールデンブロンドが中心をなし、グレーレオパードとマルチカラーキリムパターンがレイヤーを加える。全体的な美学はオリエンタルボヘミアンラグジュアリー、70年代ロックスター感性、そしてハイエンドファッションエディトリアルのエキゾチックで官能的な世界をレファレンスにしている。",
+      variations: [
+        "背景はモロッコの伝統的なリヤド内部に変わり、精巧なアラベスクタイルの床とムカルナス装飾の天井、低いクッションソファが空間を満たす。人物はディープレッドとゴールドの刺繍が施された低いダイワンソファに斜めに凭れて横たわる姿勢で、片方の肘で体を支え、もう片方の手は自然に布地の上に置かれている。モロッコランタンの温かいアンバーの光が格子パターンで空間全体に投影され、ブロンドの髪は完全に下ろされてクッションの上に豊かに広がる。お香の煙が空間の上に静かに漂うような夢幻的でエキゾチックな雰囲気が完成される。",
+        "背景はディープバーガンディのベルベット壁紙と金色のバロック装飾フレーム、低調度のキャンドル照明が空間全体に深くドラマティックなダークラグジュアリームードを満たす暗いクラシックインテリアに変わる。人物はオーバーサイズのディープレッドのベルベットアームチェアに片足を横に垂らして体を斜めに凭れる女王のように堂々として官能的なポーズをとり、片手は肘掛けの上に長く伸ばされている。ブロンドの髪は完全に下ろされてベルベットチェアの上に流れ、キャンドルの温かいゴールデンの炎がポーセリン肌とドラマティックなレッドメイクアップを官能的に浮かび上がらせる。",
+        "背景は豪華なベドウィンスタイルの砂漠のテント内部に設定され、厚いキリムラグとペルシャクッションが床を満たし、テントの天井からゴールドランタンとタッセル装飾が垂れ下がっている。テントの入り口から砂漠の黄金色の夕方の光が斜めに差し込み、空間に温かくドラマティックな光の筋を作り出す。人物は豊かなキリムラグとクッションの上に横たわりトップダウンアングルで撮影され、ブロンドの髪は完全に下ろされてラグの上に四方に広がってゴールドとレッドの強烈な色感のコントラストを作り出す。砂漠の黄金の光とランタンのアンバー照明が混合してポーセリン肌を温かく色づかせる。",
+        "背景は豊かな布地の代わりにディープレッドのバラとバーガンディのシャクヤク、ダークチェリーのダリアで満ちた花畑または花で覆われた床に変わり、人物は花々の間に横たわってトップダウンアングルで撮影される。花びらが人物の体の周りと髪の間に自然に散らばっており、ブロンドの髪は完全に下ろされてレッドの花々の間に放射状に広がって、ブロンドとディープレッドの劇的な色感のコントラストを作り出す。片手は一輪の花を軽く持って顔の横に持ち上げ、ドラマティックなレッドスモーキーメイクアップが花の色感と完璧に共鳴する。柔らかな自然拡散光が花と肌に均一に降り注いで夢幻的で叙情的な雰囲気を完成させる。",
+        "背景は夜に開くオリエンタルバザールまたはグランドマーケットに変わり、黄金のランタンとシルク布地の山、スパイスとカーペットの露店が背景に豊かでエキゾチックな雰囲気を作り出す。人物はバザールの真ん中に置かれた低い木製プラットフォームまたはカーペットの山の上に横たわってトップダウンアングルで撮影され、周囲にはカラフルなシルクスカーフとタッセル装飾が散らばっている。バザールの温かいランタンの光が黄金色で空間を染め、人物のポーセリン肌とゴールドジュエリーの上に温かく反射する。ブロンドの髪は完全に下ろされてカーペットとシルク布地の上に自由に広がり、ドラマティックなレッドスモーキーメイクアップがバザールのエキゾチックで官能的なエネルギーと完璧に調和する。",
+      ],
+      tags: ["ボヘミアンエディトリアル", "オリエンタルラグジュアリー", "クリムゾンファッション"],
     },
   },
   // {
   //   id: "6",
   //   images: [
-  //     { src: "/images/prompt5-1.jpg", ai: "ChatGPT Image 2.0" },
-  //     { src: "/images/prompt5-2.jpg", ai: "ChatGPT Image 2.0" },
-  //     { src: "/images/prompt5-3.jpg", ai: "ChatGPT Image 2.0" },
-  //     { src: "/images/prompt5-4.jpg", ai: "ChatGPT Image 2.0" },
+  //     { src: "/images/prompt5-1.webp", ai: "ChatGPT Image 2.0" },
+  //     { src: "/images/prompt5-2.webp", ai: "ChatGPT Image 2.0" },
+  //     { src: "/images/prompt5-3.webp", ai: "ChatGPT Image 2.0" },
+  //     { src: "/images/prompt5-4.webp", ai: "ChatGPT Image 2.0" },
   //   ],
   //   en: {
   //     title: "",
