@@ -437,7 +437,96 @@ export const prompts: Prompt[] = [
         "背景は豊かな布地の代わりにディープレッドのバラとバーガンディのシャクヤク、ダークチェリーのダリアで満ちた花畑または花で覆われた床に変わり、人物は花々の間に横たわってトップダウンアングルで撮影される。花びらが人物の体の周りと髪の間に自然に散らばっており、ブロンドの髪は完全に下ろされてレッドの花々の間に放射状に広がって、ブロンドとディープレッドの劇的な色感のコントラストを作り出す。片手は一輪の花を軽く持って顔の横に持ち上げ、ドラマティックなレッドスモーキーメイクアップが花の色感と完璧に共鳴する。柔らかな自然拡散光が花と肌に均一に降り注いで夢幻的で叙情的な雰囲気を完成させる。",
         "背景は夜に開くオリエンタルバザールまたはグランドマーケットに変わり、黄金のランタンとシルク布地の山、スパイスとカーペットの露店が背景に豊かでエキゾチックな雰囲気を作り出す。人物はバザールの真ん中に置かれた低い木製プラットフォームまたはカーペットの山の上に横たわってトップダウンアングルで撮影され、周囲にはカラフルなシルクスカーフとタッセル装飾が散らばっている。バザールの温かいランタンの光が黄金色で空間を染め、人物のポーセリン肌とゴールドジュエリーの上に温かく反射する。ブロンドの髪は完全に下ろされてカーペットとシルク布地の上に自由に広がり、ドラマティックなレッドスモーキーメイクアップがバザールのエキゾチックで官能的なエネルギーと完璧に調和する。",
       ],
-      tags: ["ボヘミアンエディトリアル", "オリエンタルラグジュアリー", "クリムゾンファッション"],
+      tags: [
+        "ボヘミアンエディトリアル",
+        "オリエンタルラグジュアリー",
+        "クリムゾンファッション",
+      ],
+    },
+  },
+  {
+    id: "9",
+    images: [
+      { src: "/images/prompt9-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-4.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-5.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-6.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-7.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-8.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt9-9.webp", ai: "ChatGPT Image 2.0" },
+    ],
+    en: {
+      title: "Eye of the Storm",
+      prompt:
+        "Use the subject from the reference photo as the main subject. The facial features, hairstyle, skin tone, and expression must be kept perfectly unchanged, and all realism, emotional depth, and subtle facial lighting must be preserved without any alteration. Changes are permitted only in camera angle, background, movement, and atmosphere. The scene is a vertical cinematic top-down portrait, with the camera shooting from a high angle directly above the subject looking down. The subject stands alone in the center of an urban plaza or busy street, raising their head to face the camera directly. The core visual language of the image is a dramatic composition where only the subject is completely sharp and stationary at the center of the frame, while the entire surrounding crowd is treated with a circular spin motion blur — creating a stillness as if the subject exists as the eye of a storm. The overall mood is solitary and cinematic, with a sense of inner strength maintaining composure alone in the chaos of the city. The subject stands with feet naturally together and both hands resting comfortably at the sides in a completely stationary posture. The head is slightly raised to match the camera angle and the gaze directly and strongly meets the lens. The expression is cool and restrained, but the eyes carry a deep and complex emotion and an unshakable inner stillness. The outfit is a warm camel or warm tan tailored blazer or coat with a clean structural silhouette and natural drape. Underneath is a deep navy or black turtleneck or scoop neck top, and the contrast between the camel outer and dark inner adds depth to the subject's upper body. The overall outfit is minimal and urban, radiating a restrained presence even in a crowd. The hair is dark black or deep dark brown, naturally swept back, with some strands naturally falling alongside the face. The hair maintains a natural texture in the city air without being overly styled. The core technical element of the image is the circular spin motion blur. The crowd surrounding the subject — the torsos and legs of passing pedestrians, their clothing and bags — is rendered in a circular swirling blur due to a camera axis rotation effect. The blur intensifies toward the edges of the frame and gradually weakens toward the center, with only the exact center where the subject stands remaining completely sharp. This circular blur effect creates an intense visual solitude and focus, as if the subject exists at the eye of a storm or the center of a vortex. The background is a stone or concrete floor of an urban plaza or busy pedestrian street, with the lower bodies of a crowd in various outfits, shoes, and bags swirling in circular motion blur around the subject. The blurred crowd palette is composed of urban tones — camel, dark navy, brown, and gray — naturally connecting with the subject's outfit colors. The lighting is diffused natural urban light, with soft and uniform illumination from an overcast sky falling evenly across the entire subject. Due to the top-down angle, light falls naturally on the subject's forehead, cheekbones, and nose bridge, with shadows softly forming downward. The overall color is cool and muted, with a film-sensibility teal green-gray tone throughout. The camera uses a 35mm or 50mm lens at f/2.0 to f/2.8 depth of field from a high top-down angle, with the central subject extremely sharp and a strong contrast against the surrounding blur. The spin motion blur is achieved through long exposure or post-production compositing with the sharpness of the subject area perfectly maintained. The rendering is cinematic and film-like with slightly faded colors and subtle film grain. The color palette centers on the warm camel blazer, deep navy inner, and dark hair, wrapped in cool gray concrete and teal green-gray film color grading. Overall dark, cinematic, and muted tones dominate. The overall aesthetic references the cinematic urban solitude of Christopher Nolan or David Fincher, and the psychological depth of high-end fashion editorial.",
+      variations: [
+        "The background shifts to a rainy urban plaza where the crowd passes quickly with umbrellas. The colors of the umbrellas — black, red, navy — swirl in circular spin blur around the subject, and the pattern of raindrops splashing on the ground is sharply captured around the subject's feet. Only the subject stands completely still, getting wet in the rain while gazing at the camera, with a few wet strands of hair naturally clinging to the forehead. The cold, gray urban light in the rain and the swirling umbrella colors complete an intense and cinematic atmosphere.",
+        "The background shifts to a metropolitan subway transfer corridor where countless people move quickly during rush hour, swirling around the subject in circular spin blur. The characteristic fluorescent lighting shines cold and strong, revealing the urban texture of tile walls and concrete floors sharply. The subject stands alone stationary in the middle of the corridor, raising their head to gaze at the camera, with hair slightly blown to one side by the wind from passing trains. The cool white fluorescent light and cold underground air contrast with the subject's camel blazer, completing a solitary and tense cinematic atmosphere.",
+        "The background shifts to a European-style urban plaza filled with autumn leaves, with thousands of falling leaves swirling in a circular spin around the subject instead of a crowd. Golden yellow, burnt orange, and deep red leaves are treated in spin blur grandly enveloping the subject, with some leaves sharply captured near the subject. Fallen leaves are piled on the plaza floor around the subject and old European stone buildings are faintly visible in the background. The warm golden diffused light of autumn settles naturally on the subject's camel blazer and dark hair, completing a lyrical and cinematic autumn solitude together with the leaf vortex.",
+        "The background shifts to a nighttime busy street where neon signs, vehicle headlights, and pedestrian movement swirl in circular spin blur, with streams of neon-colored light in red, blue, yellow, and green spectacularly enveloping the subject. The diverse lights of the night city create an abstract color vortex within the spin blur, with only the center where the subject stands remaining completely sharp and dark. The surrounding neon lights subtly reflect on the subject's face, creating complex lighting where cool blue and warm amber alternate. The subject's solitude standing still alone amidst the night city's chaos and light vortex is expressed far more intensely and dramatically than during the day.",
+        "The background shifts to a winter urban plaza with a raging blizzard, where snowflakes swirl in circular spin blur around the subject instead of a crowd, creating a white storm. The snowflakes swirl strongly at the edges of the frame and become progressively sharper near the subject, with some settled on the subject's shoulders and hair. The cold, blue-gray diffused light of winter envelops the entire space, and the subject's camel blazer is strongly highlighted as the only warm color point in the pure white blizzard. The image of the subject standing unshaken alone within the blizzard vortex simultaneously expresses human solitude and strength in the face of overwhelming nature.",
+      ],
+      tags: ["cinematic portrait", "solitude in a crowd", "top-down editorial"],
+    },
+    ko: {
+      title: "아이 오브 더 스톰",
+      prompt:
+        "레퍼런스 사진 속 인물을 메인 피사체로 사용합니다. 얼굴 특징, 헤어스타일, 피부 톤, 표정을 완벽하게 그대로 유지하며, 현실감과 감정적 깊이, 미묘한 얼굴 조명도 일체 변경 없이 보존합니다. 변경이 허용되는 요소는 카메라 앵글, 배경, 움직임, 분위기뿐입니다. 장면은 세로형 시네마틱 탑다운 포트레이트로, 카메라는 인물 바로 위 높은 앵글에서 아래를 내려다보며 촬영합니다. 인물은 도심 광장 또는 번화한 거리 한가운데에 홀로 서서 고개를 들어 카메라를 정면으로 바라봅니다. 이미지의 핵심 시각 언어는 인물만 프레임 중앙에 완전히 선명하게 정지해 있고 주변을 둘러싼 군중 전체가 원형 스핀 모션 블러로 처리되어 인물이 폭풍의 눈처럼 고요하게 존재하는 극적인 구도입니다. 전체적인 무드는 고독하고 영화적이며 도시의 혼돈 속에서 홀로 중심을 잡는 내면의 강인함이 느껴집니다. 인물은 두 발을 자연스럽게 모으고 양손은 몸 옆으로 편안하게 내려놓은 채 완전히 정지한 자세로 서 있습니다. 고개는 카메라 앵글에 맞게 살짝 위를 향해 들어 올려져 있으며, 시선은 렌즈를 직접적이고 강하게 응시합니다. 표정은 냉정하고 절제되어 있으나 눈빛에는 깊고 복잡한 감정이 담겨 있으며 흔들리지 않는 내면의 고요함이 느껴집니다. 의상은 웜 카멜 또는 웜 탄 계열의 테일러드 블레이저 또는 코트로, 깔끔한 구조적 실루엣과 자연스러운 드레이프가 특징입니다. 안에는 딥 네이비 또는 블랙 계열의 터틀넥 또는 스쿱넥 탑을 받쳐 입어 카멜 아우터와 다크 이너의 대비가 인물의 상체에 깊이감을 더합니다. 전체적인 의상은 미니멀하고 도시적이며 군중 속에서도 절제된 존재감을 발산합니다. 헤어는 다크 블랙 또는 딥 다크 브라운의 헤어를 자연스럽게 뒤로 넘겨 정리한 상태이며, 일부 가닥이 자연스럽게 얼굴 옆으로 흘러내려 있습니다. 헤어는 과도하게 세팅되지 않고 도시 공기 속에서 자연스럽게 유지된 텍스처가 살아있습니다. 이미지의 핵심 기술적 요소는 원형 스핀 모션 블러입니다. 인물을 중심으로 주변의 군중 — 지나치는 보행자들의 몸통과 다리, 의류와 가방 — 이 카메라 중심축 회전 효과로 인해 원형으로 소용돌이치듯 블러 처리됩니다. 블러는 프레임 가장자리로 갈수록 더 강하고 중심부로 갈수록 점진적으로 약해지며, 인물이 위치한 정중앙만 완전히 선명하게 유지됩니다. 이 원형 블러 효과는 인물이 폭풍의 눈 또는 소용돌이의 중심에 존재하는 것과 같은 강렬한 시각적 고독감과 집중도를 만들어냅니다. 배경은 도심 광장 또는 번화한 보행자 거리의 석재 또는 콘크리트 바닥으로, 인물 주변으로 다양한 의상과 신발, 가방을 든 군중의 하반신이 원형 모션 블러로 소용돌이치며 처리됩니다. 블러 처리된 군중의 색감은 카멜, 다크 네이비, 브라운, 그레이 계열의 어반 팔레트로 구성되며 인물의 의상 색감과 자연스럽게 연결됩니다. 조명은 도시의 확산된 자연 어반 라이트로, 흐린 날 또는 오버캐스트 하늘에서 내려오는 부드럽고 균일한 광원이 인물 전체에 고르게 퍼집니다. 탑다운 앵글로 인해 빛이 인물의 이마와 광대뼈, 코 브릿지 위에 자연스럽게 내려앉으며 아래쪽으로 갈수록 부드럽게 섀도우가 생깁니다. 전체적인 색감은 쿨하고 뮤트하며 필름 감성의 틸 그린 그레이 톤이 전체에 깔려 있습니다. 카메라는 35mm 또는 50mm 렌즈에 f/2.0에서 f/2.8 심도로 높은 위치에서 탑다운 앵글로 촬영하며, 중앙의 인물은 극도로 선명하고 주변 블러 영역과의 대비가 강렬합니다. 스핀 모션 블러는 장노출 또는 후반 합성 기법으로 구현하며, 인물 영역의 선명도는 완벽하게 유지됩니다. 렌더링은 시네마틱하고 필름 감성의 약간 바랜 듯한 색감과 미세한 필름 그레인이 더해집니다. 색감 팔레트는 웜 카멜 블레이저, 딥 네이비 이너, 다크 헤어를 중심으로 쿨 그레이 콘크리트 바닥과 틸 그린 그레이의 필름 컬러 그레이딩이 전체를 감쌉니다. 전체적으로 어둡고 시네마틱하며 뮤트한 톤이 지배합니다. 전체적인 미학은 크리스토퍼 놀란 또는 데이비드 핀처 스타일의 영화적 도시 고독감, 그리고 하이엔드 패션 에디토리얼의 심리적 깊이감을 레퍼런스로 합니다.",
+      variations: [
+        "배경은 비 내리는 도심 광장으로 바뀌며, 군중은 우산을 들고 빠르게 지나치고 있습니다. 우산의 색깔들 — 블랙, 레드, 네이비 — 이 원형 스핀 블러로 소용돌이치며 인물 주변을 감싸고, 빗방울이 지면에 튀기며 만들어내는 물방울 패턴이 인물 발 주변에서 선명하게 포착됩니다. 인물만 완전히 정지한 채 비를 맞으며 카메라를 응시하고, 젖은 머리카락 몇 가닥이 이마에 자연스럽게 달라붙어 있습니다. 빗속의 차갑고 회색빛 어반 라이트와 우산들의 컬러 소용돌이가 강렬하고 영화적인 분위기를 완성합니다.",
+        "배경은 대도시 지하철 환승 통로로 바뀌며, 퇴근 시간대 빠르게 이동하는 수많은 사람들이 인물 주변에서 원형 스핀 블러로 소용돌이칩니다. 지하철 특유의 형광등 조명이 차갑고 강하게 내리쏘며 타일 벽과 콘크리트 바닥의 어반한 텍스처가 선명하게 드러납니다. 인물은 통로 한가운데에 홀로 정지해 서서 고개를 들어 카메라를 응시하며, 전동차가 지나가며 만들어내는 바람에 머리카락이 한쪽으로 살짝 날립니다. 형광 조명의 쿨 화이트와 차가운 지하 공기가 인물의 카멜 블레이저와 대비를 이루며 고독하고 긴장감 있는 영화적 분위기를 완성합니다.",
+        "배경은 가을 낙엽이 가득한 유럽풍 도심 광장으로 바뀌며, 군중 대신 수천 개의 낙엽이 인물을 중심으로 원형으로 소용돌이치는 구도로 구성됩니다. 골든 옐로우, 번트 오렌지, 딥 레드의 낙엽들이 스핀 블러로 처리되어 인물 주변을 화려하게 감싸며, 일부 낙엽은 인물 가까이에서 선명하게 포착됩니다. 인물 주변 광장 바닥에는 낙엽이 쌓여 있으며 오래된 유럽 석조 건물이 배경에 희미하게 보입니다. 가을의 따뜻하고 황금빛 확산광이 인물의 카멜 블레이저와 다크 헤어에 자연스럽게 내려앉으며, 낙엽 소용돌이와 어우러져 서정적이고 영화적인 가을의 고독을 완성합니다.",
+        "배경은 야간 번화가로 바뀌며, 네온 간판과 차량 헤드라이트, 보행자들의 움직임이 원형 스핀 블러로 소용돌이치면서 레드, 블루, 옐로우, 그린의 네온 컬러 빛 줄기들이 인물 주변을 화려하게 감쌉니다. 야간 도시의 다채로운 빛들이 스핀 블러 안에서 추상적인 컬러 소용돌이를 만들어내며 인물이 위치한 중앙만 완전히 선명하고 어둡게 유지됩니다. 인물의 얼굴에는 주변 네온 빛이 은은하게 반사되며 쿨한 블루와 웜한 앰버가 교차하는 복합적인 조명이 연출됩니다. 야간 도시의 혼돈과 빛의 소용돌이 속에서 홀로 정지한 인물의 고독이 낮보다 훨씬 강렬하고 드라마틱하게 표현됩니다.",
+        "배경은 눈보라가 몰아치는 겨울 도심 광장으로 바뀌며, 군중 대신 강한 눈보라의 눈송이들이 인물을 중심으로 원형 스핀 블러로 소용돌이치며 화이트 스톰을 만들어냅니다. 눈송이는 프레임 가장자리에서 강하게 소용돌이치고 인물 가까이에서 점점 선명해지며 일부는 인물의 어깨와 헤어 위에 내려앉아 있습니다. 겨울의 차갑고 블루 그레이빛 확산광이 공간 전체를 감싸며, 인물의 카멜 블레이저가 순백의 눈보라 속에서 유일한 따뜻한 컬러 포인트로 강하게 부각됩니다. 눈보라의 소용돌이 안에서 홀로 흔들리지 않고 서 있는 인물의 모습이 압도적인 자연 앞의 인간적 고독과 강인함을 동시에 표현합니다.",
+      ],
+      tags: ["시네마틱포트레이트", "군중속고독", "탑다운에디토리얼"],
+    },
+    ja: {
+      title: "アイ・オブ・ザ・ストーム",
+      prompt:
+        "参照写真の人物をメイン被写体として使用する。顔の特徴、ヘアスタイル、肌のトーン、表情を完璧にそのまま維持し、リアリティ、感情的な深み、微妙な顔の照明も一切変更なく保存する。変更が許可されるのはカメラアングル、背景、動き、雰囲気のみ。縦型シネマティックトップダウンポートレートで、カメラは人物のすぐ真上の高いアングルから下を見下ろして撮影する。人物は都心の広場または賑やかな通りの真ん中に一人で立ち、頭を上げてカメラを正面から見つめる。イメージの核心的なビジュアル言語は、フレームの中央に人物だけが完全にシャープで静止していて、周囲を取り巻く群衆全体が円形スピンモーションブラーで処理されて、人物が嵐の目のように静かに存在するドラマティックな構図。全体的なムードは孤独でシネマティックであり、都市の混沌の中で一人中心を保つ内面の強さが感じられる。人物は両足を自然にそろえて両手を体の横に楽に下ろした完全に静止したポーズで立っている。頭はカメラアングルに合わせてわずかに上に向けられており、視線はレンズを直接的に強く見つめる。表情は冷静で抑制されているが、瞳には深く複雑な感情が込められており揺るぎない内面の静けさが感じられる。衣装はウォームキャメルまたはウォームタン系のテーラードブレザーまたはコートで、クリーンな構造的シルエットと自然なドレープが特徴。インナーにはディープネイビーまたはブラック系のタートルネックまたはスクープネックトップを着用し、キャメルのアウターとダークなインナーのコントラストが人物の上半身に奥行きを加える。全体的な衣装はミニマルで都市的であり、群衆の中でも抑制された存在感を放つ。ヘアはダークブラックまたはディープダークブラウンのヘアを自然に後ろへ流した状態で、いくつかの毛束が自然に顔の横に流れ落ちている。ヘアは過度にセットされず都市の空気の中で自然に保たれたテクスチャが生きている。イメージの核心的な技術的要素は円形スピンモーションブラー。人物を中心に周囲の群衆——通り過ぎる歩行者の胴体と脚、衣類とバッグ——がカメラの中心軸回転効果により円形に渦巻くようにブラー処理される。ブラーはフレームの端に向かうほど強くなり中心部に向かうほど徐々に弱まり、人物が立っている正中央だけが完全にシャープに維持される。この円形ブラー効果は人物が嵐の目または渦の中心に存在するような強烈な視覚的孤独感と集中度を生み出す。背景は都心の広場または賑やかな歩行者通りの石材またはコンクリートの床で、人物の周囲に様々な衣装と靴、バッグを持った群衆の下半身が円形モーションブラーで渦巻いて処理される。ブラー処理された群衆の色感はキャメル、ダークネイビー、ブラウン、グレー系のアーバンパレットで構成され人物の衣装の色感と自然につながる。照明は都市の拡散した自然アーバンライトで、曇りの日またはオーバーキャストの空から降り注ぐ柔らかく均一な光源が人物全体に均等に広がる。トップダウンアングルにより光が人物の額と頬骨、鼻のブリッジの上に自然に降り注ぎ下方に向かうほど柔らかくシャドウが生じる。全体的な色感はクールでミュートであり、フィルム感性のティールグリーングレートーンが全体に敷かれている。カメラは35mmまたは50mmレンズでf/2.0からf/2.8の被写界深度で高い位置からトップダウンアングルで撮影し、中央の人物は極めてシャープで周囲のブラー領域との対比が強烈。スピンモーションブラーは長時間露光または後半合成技法で実現し、人物領域のシャープネスは完璧に維持される。レンダリングはシネマティックでフィルム感性のわずかに色褪せたような色感と微細なフィルムグレインが加わる。カラーパレットはウォームキャメルブレザー、ディープネイビーインナー、ダークヘアを中心にクールグレーのコンクリートの床とティールグリーングレーのフィルムカラーグレーディングが全体を包む。全体的に暗くシネマティックでミュートなトーンが支配する。全体的な美学はクリストファー・ノーランまたはデビッド・フィンチャースタイルの映画的都市の孤独感、そしてハイエンドファッションエディトリアルの心理的な深みをレファレンスにしている。",
+      variations: [
+        "背景は雨の降る都心の広場に変わり、群衆は傘を持って素早く通り過ぎている。傘の色——ブラック、レッド、ネイビー——が円形スピンブラーで渦巻いて人物の周囲を包み込み、雨粒が地面に弾けて作る水滴のパターンが人物の足元の周りでシャープに捉えられる。人物だけが完全に静止したまま雨を受けながらカメラを見つめており、濡れた髪の毛束がいくつか自然に額に張り付いている。雨の中の冷たくグレーがかったアーバンライトと傘のカラーの渦巻きが強烈で映画的な雰囲気を完成させる。",
+        "背景は大都市の地下鉄乗り換え通路に変わり、退勤時間帯に素早く移動する数多くの人々が人物の周囲で円形スピンブラーに渦巻く。地下鉄特有の蛍光灯照明が冷たく強く降り注ぎタイルの壁とコンクリートの床のアーバンなテクスチャがシャープに現れる。人物は通路の真ん中に一人静止して立ち頭を上げてカメラを見つめており、電車が通過する際に生じる風で髪が片側にわずかになびく。蛍光灯のクールホワイトと冷たい地下の空気が人物のキャメルブレザーとコントラストをなし孤独で緊張感のある映画的雰囲気を完成させる。",
+        "背景は秋の落ち葉が満ちたヨーロッパ風の都心広場に変わり、群衆の代わりに無数の落ち葉が人物を中心に円形に渦巻く構図で構成される。ゴールデンイエロー、バーントオレンジ、ディープレッドの落ち葉がスピンブラーで処理されて人物の周囲を華やかに包み込み、一部の落ち葉は人物の近くでシャープに捉えられる。人物の周囲の広場の床には落ち葉が積もっており、古いヨーロッパの石造建物が背景に微かに見える。秋の温かく黄金色の拡散光が人物のキャメルブレザーとダークヘアに自然に降り注ぎ、落ち葉の渦と相まって叙情的で映画的な秋の孤独を完成させる。",
+        "背景は夜の繁華街に変わり、ネオン看板と車のヘッドライト、歩行者の動きが円形スピンブラーで渦巻きながらレッド、ブルー、イエロー、グリーンのネオンカラーの光の筋が人物の周囲を華やかに包む。夜の都市の多彩な光がスピンブラーの中で抽象的なカラーの渦を作り出し、人物が位置する中央だけが完全にシャープで暗く維持される。人物の顔には周囲のネオンの光が微かに反射しクールなブルーとウォームなアンバーが交差する複合的な照明が演出される。夜の都市の混沌と光の渦の中で一人静止した人物の孤独が昼よりはるかに強烈でドラマティックに表現される。",
+        "背景は吹雪が吹き荒れる冬の都心広場に変わり、群衆の代わりに強い吹雪の雪片が人物を中心に円形スピンブラーで渦巻いてホワイトストームを作り出す。雪片はフレームの端で強く渦巻き人物の近くで次第にシャープになり、一部は人物の肩と髪の上に降り積もっている。冬の冷たくブルーグレーがかった拡散光が空間全体を包み、人物のキャメルブレザーが純白の吹雪の中で唯一の温かいカラーポイントとして強く浮かび上がる。吹雪の渦の中で一人揺るがずに立っている人物の姿が圧倒的な自然の前の人間的な孤独と強さを同時に表現する。",
+      ],
+      tags: [
+        "シネマティックポートレート",
+        "群衆の中の孤独",
+        "トップダウンエディトリアル",
+      ],
+    },
+  },
+  {
+    id: "10",
+    images: [
+      { src: "/images/prompt10-1.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt10-2.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt10-3.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt10-4.webp", ai: "ChatGPT Image 2.0" },
+      { src: "/images/prompt10-5.webp", ai: "ChatGPT Image 2.0" },
+    ],
+    en: {
+      title: "",
+      prompt: "",
+      variations: [],
+      tags: [],
+    },
+    ko: {
+      title: "",
+      prompt: "",
+      variations: [],
+      tags: [],
+    },
+    ja: {
+      title: "",
+      prompt: "",
+      variations: [],
+      tags: [],
     },
   },
   // {
