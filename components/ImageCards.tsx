@@ -1,12 +1,25 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import { prompts } from "@/lib/prompts";
+import { useState, useEffect } from "react";
 
 interface ImageCardsProps {
   locale: string;
 }
 
 export function ImageCards({ locale }: ImageCardsProps) {
+  const [randomIndices, setRandomIndices] = useState<number[]>(
+    prompts.map(() => 0)
+  );
+
+  useEffect(() => {
+    setRandomIndices(
+      prompts.map((p) => Math.floor(Math.random() * p.images.length))
+    );
+  }, []);
+
   return (
     <section className="">
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
@@ -17,7 +30,7 @@ export function ImageCards({ locale }: ImageCardsProps) {
             className="group overflow-hidden rounded-xl bg-muted block"
           >
             <Image
-              src={prompt.images[0].src}
+              src={prompt.images[randomIndices[index]].src}
               alt={prompt.en.title}
               width={960}
               height={1280}
