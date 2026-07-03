@@ -5,7 +5,17 @@
   },
   "Hero": {
     "title": "One Photo, Endless Stories.",
-    "description": "An AI image platform that turns a single photo into infinite images — shaped by your own style and imagination."
+    "description": "An AI image platform that turns a single photo into infinite images —\nshaped by your own style and imagination."
+  },
+  "IllustCards": {
+    "title": "Illustrated Portraits",
+    "description": "Turn your photo into a hand-painted style illustration."
+  },
+  "IllustDetail": {
+    "back": "Back",
+    "promptLabel": "Prompt",
+    "copy": "Copy",
+    "copied": "Copied!"
   },
   "PromptDetail": {
     "back": "Back",

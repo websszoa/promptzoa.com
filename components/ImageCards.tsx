@@ -11,17 +11,17 @@ interface ImageCardsProps {
 
 export function ImageCards({ locale }: ImageCardsProps) {
   const [randomIndices, setRandomIndices] = useState<number[]>(
-    prompts.map(() => 0)
+    prompts.map(() => 0),
   );
 
   useEffect(() => {
     setRandomIndices(
-      prompts.map((p) => Math.floor(Math.random() * p.images.length))
+      prompts.map((p) => Math.floor(Math.random() * p.images.length)),
     );
   }, []);
 
   return (
-    <section className="">
+    <section>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
         {prompts.map((prompt, index) => (
           <Link

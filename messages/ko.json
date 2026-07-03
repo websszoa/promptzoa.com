@@ -4,8 +4,18 @@
     "getStarted": "시작하기"
   },
   "Hero": {
-    "title": "한 장의 사진, 수많은 이야기",
-    "description": "사진 하나로 나만의 스타일과 상상력을 더해 무한한 이미지를 만들어주는 AI 이미지 플랫폼."
+    "title": "한 장의 사진, 수 많은 이야기",
+    "description": "프롬프트를 확인하고 여러가지 사진을 만들어보세요!\n한 장의 사진으로 수많은 스토리를 만들어보세요"
+  },
+  "IllustCards": {
+    "title": "일러스트 포트레이트",
+    "description": "사진을 손그림 스타일의 일러스트로 변환해보세요"
+  },
+  "IllustDetail": {
+    "back": "돌아가기",
+    "promptLabel": "프롬프트",
+    "copy": "복사",
+    "copied": "복사됨!"
   },
   "PromptDetail": {
     "back": "돌아가기",

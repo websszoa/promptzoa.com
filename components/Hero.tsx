@@ -9,7 +9,7 @@ export function Hero() {
       <h1 className="title tracking-tight text-foreground text-3xl sm:text-5xl">
         {t("title")}
       </h1>
-      <p className="description mt-4 text-muted-foreground">
+      <p className="description mt-4 text-muted-foreground whitespace-pre-line">
         {t("description")}
       </p>
       <div className="mt-5">

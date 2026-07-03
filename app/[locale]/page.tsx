@@ -2,6 +2,7 @@ import { setRequestLocale } from "next-intl/server";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { ImageCards } from "@/components/ImageCards";
+import { IllustCards } from "@/components/IllustCards";
 import { Footer } from "@/components/Footer";
 
 export default async function Home({
@@ -18,6 +19,7 @@ export default async function Home({
       <main className="flex-1 px-6">
         <Hero />
         <ImageCards locale={locale} />
+        <IllustCards locale={locale} />
       </main>
       <Footer locale={locale} />
     </>

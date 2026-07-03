@@ -204,7 +204,6 @@ html[lang="en"] .title {
 
 html[lang="ko"] .title {
   font-family: var(--font-nanum);
-  font-size: 38px;
 }
 
 html[lang="en"] .description {
@@ -213,7 +212,7 @@ html[lang="en"] .description {
 
 html[lang="ko"] .description {
   font-family: var(--font-anyvid);
-  font-size: 15px;
+  font-size: 14px;
 }
 
 html[lang="en"] .tag {
