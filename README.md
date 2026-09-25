@@ -38,3 +38,9 @@ npx shadcn@latest add popover
 npx shadcn@latest add tabs
 npx shadcn@latest add field
 ```
+
+```bash
+# Cloudflare Workers + vinext
+npx vinext check
+npx vinext init
+```

@@ -52,7 +52,7 @@ export default function Home() {
                   lang="en"
                 >
                   <Sparkles size={13} aria-hidden="true" />
-                  IMAGINE IT, PROMPT IT, CREATE IT
+                  IMAGINE IT, PROMPT IT, CREATE IT1
                 </p>
                 <h1
                   id="home-title"
