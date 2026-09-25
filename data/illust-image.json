@@ -1,0 +1,133 @@
+[
+  {
+    "id": "illust1",
+    "title": "초록빛 스웨터의 미소",
+    "image": [
+      "/image-illust/illust_1-1.webp",
+      "/image-illust/illust_1-2.webp",
+      "/image-illust/illust_1-3.webp",
+      "/image-illust/illust_1-4.webp",
+      "/image-illust/illust_1-5.webp",
+      "/image-illust/illust_1-6.webp",
+      "/image-illust/illust_1-7.webp",
+      "/image-illust/illust_1-8.webp",
+      "/image-illust/illust_1-9.webp"
+    ],
+    "description": "초록 스웨터에 화이트 카라를 더한 인물, 따뜻한 카키 배경의 레트로 수채화 질감 일러스트.",
+    "style": [
+      "빈티지 워터컬러"
+    ]
+  },
+  {
+    "id": "illust2",
+    "title": "플로럴 콜라주 초상",
+    "image": [
+      "/image-illust/illust_2-1.webp",
+      "/image-illust/illust_2-2.webp",
+      "/image-illust/illust_2-3.webp",
+      "/image-illust/illust_2-4.webp",
+      "/image-illust/illust_2-5.webp",
+      "/image-illust/illust_2-6.webp",
+      "/image-illust/illust_2-7.webp",
+      "/image-illust/illust_2-8.webp",
+      "/image-illust/illust_2-9.webp"
+    ],
+    "description": "잎사귀와 기하학 패턴이 어우러진 컬러풀한 콜라주 배경 속 인물 일러스트.",
+    "style": [
+      "플로럴 콜라주"
+    ]
+  },
+  {
+    "id": "illust3",
+    "title": "블루 모먼트 스케치",
+    "image": [
+      "/image-illust/illust_3-1.webp",
+      "/image-illust/illust_3-2.webp",
+      "/image-illust/illust_3-3.webp",
+      "/image-illust/illust_3-4.webp",
+      "/image-illust/illust_3-5.webp",
+      "/image-illust/illust_3-6.webp",
+      "/image-illust/illust_3-7.webp",
+      "/image-illust/illust_3-8.webp",
+      "/image-illust/illust_3-9.webp"
+    ],
+    "description": "파란 수채 얼룩과 손글씨 메모가 어우러진 스케치풍 일러스트, 귀걸이 디테일이 돋보인다.",
+    "style": [
+      "워터컬러 스케치"
+    ]
+  },
+  {
+    "id": "illust4",
+    "title": "장미와 비눗방울",
+    "image": [
+      "/image-illust/illust_4-1.webp",
+      "/image-illust/illust_4-2.webp",
+      "/image-illust/illust_4-3.webp",
+      "/image-illust/illust_4-4.webp",
+      "/image-illust/illust_4-5.webp",
+      "/image-illust/illust_4-6.webp",
+      "/image-illust/illust_4-7.webp",
+      "/image-illust/illust_4-8.webp",
+      "/image-illust/illust_4-9.webp"
+    ],
+    "description": "은은한 장미와 떠다니는 비눗방울, 파스텔톤 배경의 부드러운 일러스트.",
+    "style": [
+      "파스텔 플로럴"
+    ]
+  },
+  {
+    "id": "illust5",
+    "title": "동물원 친구들",
+    "image": [
+      "/image-illust/illust_5-1.webp",
+      "/image-illust/illust_5-2.webp",
+      "/image-illust/illust_5-3.webp",
+      "/image-illust/illust_5-4.webp",
+      "/image-illust/illust_5-5.webp",
+      "/image-illust/illust_5-6.webp",
+      "/image-illust/illust_5-7.webp",
+      "/image-illust/illust_5-8.webp",
+      "/image-illust/illust_5-9.webp"
+    ],
+    "description": "고양이, 강아지, 새, 나비가 가득한 정원을 배경으로 한 디테일한 수채화 일러스트.",
+    "style": [
+      "애니멀 가든"
+    ]
+  },
+  {
+    "id": "illust6",
+    "title": "탐험가의 모자",
+    "image": [
+      "/image-illust/illust_6-1.webp",
+      "/image-illust/illust_6-2.webp",
+      "/image-illust/illust_6-3.webp",
+      "/image-illust/illust_6-4.webp",
+      "/image-illust/illust_6-5.webp",
+      "/image-illust/illust_6-6.webp",
+      "/image-illust/illust_6-7.webp",
+      "/image-illust/illust_6-8.webp",
+      "/image-illust/illust_6-9.webp"
+    ],
+    "description": "새와 정교한 기계 장치 문양이 어우러진 탐험가 모자, 스팀펑크풍 일러스트.",
+    "style": [
+      "스팀펑크 판타지"
+    ]
+  },
+  {
+    "id": "illust8",
+    "title": "블롭 패턴 무드",
+    "image": [
+      "/image-illust/illust_8-1.webp",
+      "/image-illust/illust_8-2.webp",
+      "/image-illust/illust_8-3.webp",
+      "/image-illust/illust_8-4.webp",
+      "/image-illust/illust_8-5.webp",
+      "/image-illust/illust_8-6.webp",
+      "/image-illust/illust_8-7.webp"
+    ],
+    "description": "원색 블롭 패턴 배경과 안경 소품이 돋보이는 플랫 모던 스타일 일러스트.",
+    "style": [
+      "플랫 모던"
+    ]
+  }
+]

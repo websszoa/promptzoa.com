@@ -1,0 +1,676 @@
+[
+  {
+    "id": "prompt1",
+    "title": "햇살 머문 오후",
+    "image": [
+      "/image-person/person_1-1.webp",
+      "/image-person/person_1-2.webp",
+      "/image-person/person_1-3.webp",
+      "/image-person/person_1-4.webp",
+      "/image-person/person_1-5.webp",
+      "/image-person/person_1-6.webp",
+      "/image-person/person_1-7.webp"
+    ],
+    "description": "아이보리 리넨 셔츠와 와이드 팬츠를 입은 인물이 원목 의자에 앉아 환하게 웃는 모습. 창으로 들어오는 부드러운 햇살과 식물, 도자기 소품이 어우러진 따뜻한 인테리어.",
+    "style": ["라이프스타일"]
+  },
+  {
+    "id": "prompt2",
+    "title": "어둠 속의 시선",
+    "image": [
+      "/image-person/person_2-1.webp",
+      "/image-person/person_2-2.webp",
+      "/image-person/person_2-3.webp",
+      "/image-person/person_2-4.webp",
+      "/image-person/person_2-5.webp",
+      "/image-person/person_2-6.webp",
+      "/image-person/person_2-7.webp",
+      "/image-person/person_2-8.webp"
+    ],
+    "description": "카키색 셔츠 재킷을 입고 어두운 녹갈색 커튼을 배경으로 담담한 시선을 보내는 인물. 강한 측광 조명과 낮은 채도가 만드는 절제된 시네마틱 분위기.",
+    "style": ["시네마틱"]
+  },
+  {
+    "id": "prompt3",
+    "title": "들판 위의 에디토리얼",
+    "image": [
+      "/image-person/person_3-1.webp",
+      "/image-person/person_3-2.webp",
+      "/image-person/person_3-3.webp",
+      "/image-person/person_3-4.webp",
+      "/image-person/person_3-5.webp",
+      "/image-person/person_3-6.webp",
+      "/image-person/person_3-7.webp",
+      "/image-person/person_3-8.webp",
+      "/image-person/person_3-9.webp"
+    ],
+    "description": "따뜻한 오후의 들판을 배경으로 한 패션 화보. 베이지색 재킷, 자연스러운 표정, 부드러운 역광, 차분한 필름 색감과 얕은 심도.",
+    "style": ["패션 화보"]
+  },
+  {
+    "id": "prompt4",
+    "title": "가장 빛나는 순간",
+    "image": [
+      "/image-person/person_4-1.webp",
+      "/image-person/person_4-2.webp",
+      "/image-person/person_4-3.webp",
+      "/image-person/person_4-4.webp"
+    ],
+    "description": "화려한 고전풍 인테리어에서 티아라와 새틴 볼가운을 입고 환하게 웃는 신부. 금장 소파와 붉은 카펫, 따뜻한 조명이 어우러진 화려한 웨딩 촬영.",
+    "style": ["웨딩"]
+  },
+  {
+    "id": "prompt5",
+    "title": "빗방울 너머의 장미",
+    "image": [
+      "/image-person/person_5-1.webp",
+      "/image-person/person_5-2.webp",
+      "/image-person/person_5-3.webp",
+      "/image-person/person_5-4.webp"
+    ],
+    "description": "빗방울 맺힌 유리창 너머로 장미 꽃잎과 함께 담긴 클로즈업 얼굴. 붉은 꽃잎과 흐릿한 도심 불빛이 만드는 촉촉하고 관능적인 뷰티 무드.",
+    "style": ["뷰티"]
+  },
+  {
+    "id": "prompt6",
+    "title": "레드 시티",
+    "image": [
+      "/image-person/person_6-1.webp",
+      "/image-person/person_6-2.webp",
+      "/image-person/person_6-3.webp",
+      "/image-person/person_6-4.webp"
+    ],
+    "description": "레드 컬러 코트와 미니스커트, 타이츠로 통일한 스트리트 룩. 지나가는 트램과 자전거의 모션 블러가 만드는 역동적인 도심 배경.",
+    "style": ["스트리트 패션"]
+  },
+  {
+    "id": "prompt7",
+    "title": "숲의 골든아워",
+    "image": [
+      "/image-person/person_7-1.webp",
+      "/image-person/person_7-2.webp",
+      "/image-person/person_7-3.webp",
+      "/image-person/person_7-4.webp",
+      "/image-person/person_7-5.webp",
+      "/image-person/person_7-6.webp"
+    ],
+    "description": "노을빛이 스며드는 숲속, 나무에 기대어 선 인물. 체크 셔츠와 블랙 니트, 바람에 흩날리는 머리카락과 골든아워 역광.",
+    "style": ["내추럴 포트레이트"]
+  },
+  {
+    "id": "prompt8",
+    "title": "보헤미안 레드",
+    "image": [
+      "/image-person/person_8-1.webp",
+      "/image-person/person_8-2.webp",
+      "/image-person/person_8-3.webp",
+      "/image-person/person_8-4.webp",
+      "/image-person/person_8-5.webp",
+      "/image-person/person_8-6.webp"
+    ],
+    "description": "화려한 패턴의 러그 위에 누워 진주 목걸이와 레이스 장신구를 두른 인물. 와인빛 벨벳 드레스와 웨이브 헤어가 만드는 풍성한 보헤미안 무드.",
+    "style": ["보헤미안"]
+  },
+  {
+    "id": "prompt9",
+    "title": "세상의 중심에서",
+    "image": [
+      "/image-person/person_9-1.webp",
+      "/image-person/person_9-2.webp",
+      "/image-person/person_9-3.webp",
+      "/image-person/person_9-4.webp",
+      "/image-person/person_9-5.webp",
+      "/image-person/person_9-6.webp",
+      "/image-person/person_9-7.webp",
+      "/image-person/person_9-8.webp",
+      "/image-person/person_9-9.webp"
+    ],
+    "description": "광장 한가운데 서서 위에서 내려다본 어안 렌즈 구도. 주변으로 소용돌이치듯 흐려진 인파와 또렷한 인물이 대비를 이룬다.",
+    "style": ["어안 렌즈"]
+  },
+  {
+    "id": "prompt10",
+    "title": "비 내리는 네온 시티",
+    "image": [
+      "/image-person/person_10-1.webp",
+      "/image-person/person_10-2.webp",
+      "/image-person/person_10-3.webp",
+      "/image-person/person_10-4.webp",
+      "/image-person/person_10-5.webp"
+    ],
+    "description": "비 내리는 야간 횡단보도에서 흰 셔츠와 플리츠 스커트를 입고 활짝 웃는 인물. 젖은 도로에 반사되는 네온 불빛과 차량 조명.",
+    "style": ["나이트 스트리트"]
+  },
+  {
+    "id": "prompt11",
+    "title": "바람이 그린 초상",
+    "image": [
+      "/image-person/person_11-1.webp",
+      "/image-person/person_11-2.webp",
+      "/image-person/person_11-3.webp",
+      "/image-person/person_11-4.webp",
+      "/image-person/person_11-5.webp",
+      "/image-person/person_11-6.webp"
+    ],
+    "description": "회색 텍스처 배경 앞, 바람에 흩날리듯 번지는 새하얀 드레스 자락. 시폰 러플 카라와 정면을 응시하는 시선이 만드는 파인아트 초상.",
+    "style": ["파인아트"]
+  },
+  {
+    "id": "prompt12",
+    "title": "파스텔 헤어 데이",
+    "image": [
+      "/image-person/person_12-1.webp",
+      "/image-person/person_12-2.webp",
+      "/image-person/person_12-3.webp",
+      "/image-person/person_12-4.webp",
+      "/image-person/person_12-5.webp",
+      "/image-person/person_12-6.webp"
+    ],
+    "description": "민트·핑크·라벤더로 이어지는 그라데이션 염색 헤어와 분홍 스웨터. 화사한 미소와 화이트 배경의 K-뷰티 스타일 촬영.",
+    "style": ["K-뷰티"]
+  },
+  {
+    "id": "prompt13",
+    "title": "야생을 품은 여왕",
+    "image": [
+      "/image-person/person_13-1.webp",
+      "/image-person/person_13-2.webp",
+      "/image-person/person_13-3.webp",
+      "/image-person/person_13-4.webp",
+      "/image-person/person_13-5.webp",
+      "/image-person/person_13-6.webp",
+      "/image-person/person_13-7.webp",
+      "/image-person/person_13-8.webp"
+    ],
+    "description": "러프 칼라와 벨벳 로브를 두르고 표범을 품에 안은 인물. 어두운 배경과 강렬한 조명이 만드는 고전 회화풍 초상.",
+    "style": ["르네상스"]
+  },
+  {
+    "id": "prompt14",
+    "title": "경복궁 공룡 투어",
+    "image": [
+      "/image-person/person_14-1.webp",
+      "/image-person/person_14-2.webp",
+      "/image-person/person_14-3.webp",
+      "/image-person/person_14-4.webp",
+      "/image-person/person_14-5.webp",
+      "/image-person/person_14-6.webp"
+    ],
+    "description": "경복궁 광화문 앞에서 갑옷을 두른 스테고사우루스를 타고 손을 흔드는 인물. 한복 입은 관광객들 사이의 기발한 합성 연출.",
+    "style": ["초현실"]
+  },
+  {
+    "id": "prompt15",
+    "title": "외계인과 오운완",
+    "image": [
+      "/image-person/person_15-1.webp",
+      "/image-person/person_15-2.webp",
+      "/image-person/person_15-3.webp",
+      "/image-person/person_15-4.webp",
+      "/image-person/person_15-5.webp",
+      "/image-person/person_15-6.webp"
+    ],
+    "description": "헬스장에서 회색 외계인과 나란히 서서 셀카를 찍는 인물. 운동복을 입은 외계인과 함께 덤벨을 드는 모습이 만드는 유쾌한 합성.",
+    "style": ["유머"]
+  },
+  {
+    "id": "prompt16",
+    "title": "보랏빛 비밀 정원",
+    "image": [
+      "/image-person/person_16-1.webp",
+      "/image-person/person_16-2.webp",
+      "/image-person/person_16-3.webp",
+      "/image-person/person_16-4.webp",
+      "/image-person/person_16-5.webp",
+      "/image-person/person_16-6.webp"
+    ],
+    "description": "보랏빛 안개와 만개한 꽃에 둘러싸여 비즈 장식 드레스를 입은 인물. 화려한 주얼리와 몽환적인 색감의 동화 같은 정원.",
+    "style": ["판타지"]
+  },
+  {
+    "id": "prompt17",
+    "title": "컬러 스플래시 발레",
+    "image": [
+      "/image-person/person_17-1.webp",
+      "/image-person/person_17-2.webp",
+      "/image-person/person_17-3.webp",
+      "/image-person/person_17-4.webp",
+      "/image-person/person_17-5.webp",
+      "/image-person/person_17-6.webp"
+    ],
+    "description": "검은 배경 위로 분홍·보라 물감이 폭발하듯 터지는 순간, 발레 포즈로 도약하는 인물. 흰 드레스와 컬러 스플래시가 대비되는 다이내믹한 연출.",
+    "style": ["크리에이티브"]
+  },
+  {
+    "id": "art",
+    "title": "꽃보다 화사하게",
+    "image": [
+      "/image-person/person_18-1.webp",
+      "/image-person/person_18-2.webp",
+      "/image-person/person_18-3.webp",
+      "/image-person/person_18-4.webp",
+      "/image-person/person_18-5.webp"
+    ],
+    "description": "분홍색 장미에 둘러싸인 인물의 클로즈업. 파스텔 팔레트, 섬세한 꽃잎 질감, 부드럽게 퍼지는 빛과 로맨틱한 분위기.",
+    "style": ["플로럴 뷰티"]
+  },
+  {
+    "id": "prompt19",
+    "title": "까마귀의 대지",
+    "image": [
+      "/image-person/person_19-1.webp",
+      "/image-person/person_19-2.webp",
+      "/image-person/person_19-3.webp",
+      "/image-person/person_19-4.webp",
+      "/image-person/person_19-5.webp",
+      "/image-person/person_19-6.webp"
+    ],
+    "description": "거친 바람에 머리카락이 흩날리고 까마귀 떼가 날아오르는 흑백 광야. 검은 코트를 입고 뒤돌아보는 인물의 어둡고 극적인 분위기.",
+    "style": ["다크 판타지"]
+  },
+  {
+    "id": "prompt20",
+    "title": "태권도의 시간",
+    "image": [
+      "/image-person/person_20-1.webp",
+      "/image-person/person_20-2.webp",
+      "/image-person/person_20-3.webp",
+      "/image-person/person_20-4.webp",
+      "/image-person/person_20-5.webp",
+      "/image-person/person_20-6.webp"
+    ],
+    "description": "태극기와 격언이 걸린 도장에서 격파용 송판을 들고 선 인물. 땀에 젖은 머리와 단련된 몸, 강렬한 눈빛의 스포츠 무드.",
+    "style": ["스포츠 시네마틱"]
+  },
+  {
+    "id": "prompt21",
+    "title": "정글의 수호 로봇",
+    "image": [
+      "/image-person/person_21-1.webp",
+      "/image-person/person_21-2.webp",
+      "/image-person/person_21-3.webp",
+      "/image-person/person_21-4.webp",
+      "/image-person/person_21-5.webp",
+      "/image-person/person_21-6.webp"
+    ],
+    "description": "정글 유적 속 거대한 로봇을 배경으로 손을 내밀며 환하게 웃는 모험가. 초록빛 눈이 빛나는 로봇과 고대 신전이 만드는 SF 모험 연출.",
+    "style": ["SF 어드벤처"]
+  },
+  {
+    "id": "fantasy",
+    "title": "식물로 채운 보헤미안 룸",
+    "image": [
+      "/image-person/person_22-1.webp",
+      "/image-person/person_22-2.webp",
+      "/image-person/person_22-3.webp",
+      "/image-person/person_22-4.webp",
+      "/image-person/person_22-5.webp"
+    ],
+    "description": "오래된 서재와 초록 식물이 어우러진 환상적인 공간. 오렌지색 드레스를 입은 인물, 풍부한 소품, 동화 같은 분위기와 따뜻한 빛.",
+    "style": ["보헤미안"]
+  },
+  {
+    "id": "prompt23",
+    "title": "벚꽃이 내리는 날",
+    "image": [
+      "/image-person/person_23-1.webp",
+      "/image-person/person_23-2.webp",
+      "/image-person/person_23-3.webp",
+      "/image-person/person_23-4.webp",
+      "/image-person/person_23-5.webp",
+      "/image-person/person_23-6.webp"
+    ],
+    "description": "만개한 벚꽃나무 아래서 하얀 꽃다발을 안고 하늘을 올려다보는 인물. 레이스 드레스와 흩날리는 꽃잎이 만드는 로맨틱한 봄 분위기.",
+    "style": ["로맨틱"]
+  },
+  {
+    "id": "prompt24",
+    "title": "가을밤의 트램",
+    "image": [
+      "/image-person/person_24-1.webp",
+      "/image-person/person_24-2.webp",
+      "/image-person/person_24-3.webp",
+      "/image-person/person_24-4.webp",
+      "/image-person/person_24-5.webp",
+      "/image-person/person_24-6.webp"
+    ],
+    "description": "젖은 낙엽이 깔린 야간 거리, 지나가는 트램을 배경으로 코트를 입고 걷는 인물. 따뜻한 가로등 불빛과 옆모습 실루엣의 시네마틱 무드.",
+    "style": ["시네마틱"]
+  },
+  {
+    "id": "prompt25",
+    "title": "포근한 아침 한입",
+    "image": [
+      "/image-person/person_25-1.webp",
+      "/image-person/person_25-2.webp",
+      "/image-person/person_25-3.webp",
+      "/image-person/person_25-4.webp",
+      "/image-person/person_25-5.webp"
+    ],
+    "description": "아늑한 침실에서 다리를 접고 앉아 간식을 베어 물며 활짝 웃는 인물. 체크·플로럴 패턴 베개와 따뜻한 아침 햇살의 편안한 무드.",
+    "style": ["홈 라이프스타일"]
+  },
+  {
+    "id": "underwater",
+    "title": "바닷속 인사",
+    "image": [
+      "/image-person/person_26-1.webp",
+      "/image-person/person_26-2.webp",
+      "/image-person/person_26-3.webp",
+      "/image-person/person_26-4.webp",
+      "/image-person/person_26-5.webp"
+    ],
+    "description": "맑고 푸른 바닷속 인물 사진. 생동감 있는 표정, 산호와 물고기, 수면을 통과하는 햇빛, 역동적인 광각 구도와 선명한 색상.",
+    "style": ["언더워터"]
+  },
+  {
+    "id": "prompt27",
+    "title": "빗속 숲의 여신",
+    "image": [
+      "/image-person/person_27-1.webp",
+      "/image-person/person_27-2.webp",
+      "/image-person/person_27-3.webp",
+      "/image-person/person_27-4.webp",
+      "/image-person/person_27-5.webp",
+      "/image-person/person_27-6.webp"
+    ],
+    "description": "안개 낀 숲속, 젖은 머리에 보랏빛 들꽃 화관을 쓰고 눈을 감은 인물. 촉촉하게 젖은 피부와 시폰 드레스가 만드는 신비로운 분위기.",
+    "style": ["다크 플로럴"]
+  },
+  {
+    "id": "prompt28",
+    "title": "네온 아케이드",
+    "image": [
+      "/image-person/person_28-1.webp",
+      "/image-person/person_28-2.webp",
+      "/image-person/person_28-3.webp",
+      "/image-person/person_28-4.webp",
+      "/image-person/person_28-5.webp",
+      "/image-person/person_28-6.webp"
+    ],
+    "description": "인형뽑기 기계와 네온 간판이 가득한 오락실에서 조이스틱을 잡은 인물. 레드·화이트 스트라이프 팬츠와 화려한 네온 조명의 무드.",
+    "style": ["사이버펑크"]
+  },
+  {
+    "id": "prompt29",
+    "title": "노을빛 플라워 발레",
+    "image": [
+      "/image-person/person_29-1.webp",
+      "/image-person/person_29-2.webp",
+      "/image-person/person_29-3.webp",
+      "/image-person/person_29-4.webp",
+      "/image-person/person_29-5.webp",
+      "/image-person/person_29-6.webp"
+    ],
+    "description": "노을빛 하늘과 꽃으로 장식된 무대 위, 튈 스커트를 입고 발끝으로 선 발레리나. 반짝이는 조명 박스와 만개한 꽃이 어우러진 화려한 배경.",
+    "style": ["판타지"]
+  },
+  {
+    "id": "prompt30",
+    "title": "불꽃을 가르는 기수",
+    "image": [
+      "/image-person/person_30-1.webp",
+      "/image-person/person_30-2.webp",
+      "/image-person/person_30-3.webp",
+      "/image-person/person_30-4.webp",
+      "/image-person/person_30-5.webp",
+      "/image-person/person_30-6.webp"
+    ],
+    "description": "불타는 성을 배경으로 백마를 타고 질주하는 전사. 흙먼지와 상처로 얼룩진 얼굴, 휘날리는 머리카락이 만드는 강렬한 액션 연출.",
+    "style": ["액션 판타지"]
+  },
+  {
+    "id": "prompt31",
+    "title": "안개 속 라벤더",
+    "image": [
+      "/image-person/person_31-1.webp",
+      "/image-person/person_31-2.webp",
+      "/image-person/person_31-3.webp",
+      "/image-person/person_31-4.webp",
+      "/image-person/person_31-5.webp",
+      "/image-person/person_31-6.webp"
+    ],
+    "description": "안개 낀 들판에서 라벤더 꽃다발을 들고 살며시 미소 짓는 인물. 오프숄더 튤 드레스와 뿌옇게 퍼지는 빛이 만드는 몽환적인 분위기.",
+    "style": ["몽환적"]
+  },
+  {
+    "id": "prompt32",
+    "title": "멈춘 군중 속에서",
+    "image": [
+      "/image-person/person_32-1.webp",
+      "/image-person/person_32-2.webp",
+      "/image-person/person_32-3.webp",
+      "/image-person/person_32-4.webp",
+      "/image-person/person_32-5.webp"
+    ],
+    "description": "빠르게 움직이는 군중 사이, 후드를 쓰고 홀로 정면을 응시하는 인물. 좌우로 흐려진 배경과 또렷한 인물이 대비되는 콘셉추얼 연출.",
+    "style": ["콘셉추얼"]
+  },
+  {
+    "id": "prompt33",
+    "title": "심해의 습격",
+    "image": [
+      "/image-person/person_33-1.webp",
+      "/image-person/person_33-2.webp",
+      "/image-person/person_33-3.webp",
+      "/image-person/person_33-4.webp",
+      "/image-person/person_33-5.webp",
+      "/image-person/person_33-6.webp"
+    ],
+    "description": "거대한 문어 촉수에 휘감겨 놀란 표정을 짓는 인물. 짙은 바닷속 조명과 물방울이 만드는 긴장감 있는 크리처 연출.",
+    "style": ["크리처"]
+  },
+  {
+    "id": "prompt34",
+    "title": "벽 위에 남긴 얼굴",
+    "image": [
+      "/image-person/person_34-1.webp",
+      "/image-person/person_34-2.webp",
+      "/image-person/person_34-3.webp",
+      "/image-person/person_34-4.webp",
+      "/image-person/person_34-5.webp",
+      "/image-person/person_34-6.webp"
+    ],
+    "description": "자신의 얼굴 벽화를 직접 그리는 타투 아티스트. 물감 통과 낙서로 뒤덮인 골목, 오버올 차림의 자유분방한 스트리트 아트 무드.",
+    "style": ["스트리트 아트"]
+  },
+  {
+    "id": "prompt35",
+    "title": "산토리니 포스트카드",
+    "image": [
+      "/image-person/person_35-1.webp",
+      "/image-person/person_35-2.webp",
+      "/image-person/person_35-3.webp",
+      "/image-person/person_35-4.webp",
+      "/image-person/person_35-5.webp",
+      "/image-person/person_35-6.webp",
+      "/image-person/person_35-7.webp",
+      "/image-person/person_35-8.webp"
+    ],
+    "description": "산토리니 바다를 배경으로 블루 패턴 수영복을 입고 미소 짓는 인물. 우표, 올리브 오일 병, 그리스 도자기 일러스트가 어우러진 빈티지 엽서 콜라주.",
+    "style": ["트래블 콜라주"]
+  },
+  {
+    "id": "prompt36",
+    "title": "링 위의 휴식",
+    "image": [
+      "/image-person/person_36-1.webp",
+      "/image-person/person_36-2.webp",
+      "/image-person/person_36-3.webp",
+      "/image-person/person_36-4.webp",
+      "/image-person/person_36-5.webp",
+      "/image-person/person_36-6.webp"
+    ],
+    "description": "낡은 체육관에서 손에 붕대를 감고 바닥에 앉아 쉬는 복서. 땀과 상처 자국, 타투로 뒤덮인 팔, 역광이 만드는 묵직한 에디토리얼 무드.",
+    "style": ["스포츠 에디토리얼"]
+  },
+  {
+    "id": "prompt37",
+    "title": "꽃과 나비의 콜라주",
+    "image": [
+      "/image-person/person_37-1.webp",
+      "/image-person/person_37-2.webp",
+      "/image-person/person_37-3.webp",
+      "/image-person/person_37-4.webp",
+      "/image-person/person_37-5.webp",
+      "/image-person/person_37-6.webp"
+    ],
+    "description": "화관을 쓰고 캐릭터 그래픽 티셔츠와 청반바지를 입은 인물. 라벤더, 작약, 나비가 가득한 빈티지 식물 일러스트 콜라주 배경.",
+    "style": ["빈티지 콜라주"]
+  },
+  {
+    "id": "prompt38",
+    "title": "숲이 만든 드레스",
+    "image": [
+      "/image-person/person_38-1.webp",
+      "/image-person/person_38-2.webp",
+      "/image-person/person_38-3.webp",
+      "/image-person/person_38-4.webp",
+      "/image-person/person_38-5.webp",
+      "/image-person/person_38-6.webp"
+    ],
+    "description": "들꽃과 넝쿨이 그대로 드레스가 된 듯한 자연 소재 의상을 입은 인물. 베이지 톤 배경과 시선을 돌린 자세가 만드는 고요한 에코 판타지.",
+    "style": ["에코 판타지"]
+  },
+  {
+    "id": "prompt39",
+    "title": "스테인드글라스 빛",
+    "image": [
+      "/image-person/person_39-1.webp",
+      "/image-person/person_39-2.webp",
+      "/image-person/person_39-3.webp",
+      "/image-person/person_39-4.webp",
+      "/image-person/person_39-5.webp",
+      "/image-person/person_39-6.webp",
+      "/image-person/person_39-7.webp",
+      "/image-person/person_39-8.webp"
+    ],
+    "description": "스테인드글라스를 통과한 무지개빛이 머리카락에 내려앉은 클로즈업. 레이스 자수 드레스와 장미 꽃송이가 어우러진 로맨틱한 뷰티 샷.",
+    "style": ["로맨틱 뷰티"]
+  },
+  {
+    "id": "prompt40",
+    "title": "홈런의 순간",
+    "image": [
+      "/image-person/person_40-1.webp",
+      "/image-person/person_40-2.webp",
+      "/image-person/person_40-3.webp",
+      "/image-person/person_40-4.webp",
+      "/image-person/person_40-5.webp",
+      "/image-person/person_40-6.webp",
+      "/image-person/person_40-7.webp",
+      "/image-person/person_40-8.webp",
+      "/image-person/person_40-9.webp",
+      "/image-person/person_40-10.webp"
+    ],
+    "description": "조명이 쏟아지는 야구장에서 방망이로 공을 맞히는 극적인 순간. 헬멧과 유니폼, 렌즈 앞까지 튀어오른 공이 만드는 박진감 넘치는 스포츠 액션.",
+    "style": ["스포츠 액션"]
+  },
+  {
+    "id": "prompt41",
+    "title": "서머 파라다이스",
+    "image": [
+      "/image-person/person_41-1.webp",
+      "/image-person/person_41-2.webp",
+      "/image-person/person_41-3.webp",
+      "/image-person/person_41-4.webp",
+      "/image-person/person_41-5.webp",
+      "/image-person/person_41-6.webp"
+    ],
+    "description": "밀짚모자와 크로셰 비키니를 입고 해변을 걷는 인물. 야자수, 서프보드, 나비 일러스트가 어우러진 레트로 여름 포스터 콜라주.",
+    "style": ["빈티지 포스터"]
+  },
+  {
+    "id": "prompt42",
+    "title": "브루클린 올드스쿨",
+    "image": [
+      "/image-person/person_42-1.webp",
+      "/image-person/person_42-2.webp",
+      "/image-person/person_42-3.webp",
+      "/image-person/person_42-4.webp",
+      "/image-person/person_42-5.webp",
+      "/image-person/person_42-6.webp"
+    ],
+    "description": "브루클린 그래피티 벽화 앞에서 금색 체인과 스냅백을 착용한 인물. 오버사이즈 저지와 와이드 데님이 만드는 90년대 힙합 스트리트 무드.",
+    "style": ["힙합"]
+  },
+  {
+    "id": "prompt43",
+    "title": "골든 데저트",
+    "image": [
+      "/image-person/person_43-1.webp",
+      "/image-person/person_43-2.webp",
+      "/image-person/person_43-3.webp",
+      "/image-person/person_43-4.webp",
+      "/image-person/person_43-5.webp",
+      "/image-person/person_43-6.webp"
+    ],
+    "description": "금빛 조형물과 전갈 오브제 사이, 선글라스와 테라코타 블레이저를 입은 인물. 반짝이는 다이아몬드 소품과 사막빛 배경의 하이패션 화보.",
+    "style": ["하이패션"]
+  },
+  {
+    "id": "prompt44",
+    "title": "정글의 마법 도서관",
+    "image": [
+      "/image-person/person_44-1.webp",
+      "/image-person/person_44-2.webp",
+      "/image-person/person_44-3.webp",
+      "/image-person/person_44-4.webp",
+      "/image-person/person_44-5.webp",
+      "/image-person/person_44-6.webp"
+    ],
+    "description": "넝쿨에 뒤덮인 고대 도서관에서 빛나는 마법 책을 손에 든 인물. 하늘을 나는 앵무새와 나비, 쏟아지는 빛줄기가 만드는 모험 판타지.",
+    "style": ["어드벤처 판타지"]
+  },
+  {
+    "id": "prompt45",
+    "title": "달콤한 세탁소",
+    "image": [
+      "/image-person/person_45-1.webp",
+      "/image-person/person_45-2.webp",
+      "/image-person/person_45-3.webp",
+      "/image-person/person_45-4.webp",
+      "/image-person/person_45-5.webp"
+    ],
+    "description": "노란 물방울 원피스와 앞치마를 입고 빨래 바구니를 든 인물. 파스텔톤 세탁소 소품과 1950년대풍 핀업 스타일 연출.",
+    "style": ["레트로 핀업"]
+  },
+  {
+    "id": "prompt46",
+    "title": "고담 치어리더",
+    "image": [
+      "/image-person/person_46-1.webp",
+      "/image-person/person_46-2.webp",
+      "/image-person/person_46-3.webp",
+      "/image-person/person_46-4.webp",
+      "/image-person/person_46-5.webp"
+    ],
+    "description": "핑크·블루 트윈테일 헤어에 고담 치어리더 유니폼을 입은 인물. 야구 배트를 든 채 윙크하는 장난스러운 코스튬 연출.",
+    "style": ["코스튬"]
+  },
+  {
+    "id": "prompt47",
+    "title": "손 내민 푸른 하늘",
+    "image": [
+      "/image-person/person_47-1.webp",
+      "/image-person/person_47-2.webp",
+      "/image-person/person_47-3.webp",
+      "/image-person/person_47-4.webp"
+    ],
+    "description": "붉은 벽돌 건물 사이 파란 하늘을 배경으로 렌즈를 향해 손을 뻗는 인물. 극단적인 광각 왜곡과 흩날리는 머리카락이 만드는 역동적인 구도.",
+    "style": ["광각 스트리트"]
+  },
+  {
+    "id": "prompt48",
+    "title": "대한민국의 킥",
+    "image": [
+      "/image-person/person_48-1.webp",
+      "/image-person/person_48-2.webp",
+      "/image-person/person_48-3.webp",
+      "/image-person/person_48-4.webp",
+      "/image-person/person_48-5.webp"
+    ],
+    "description": "태극 문양과 붓글씨체 타이포그래피를 배경으로 축구공을 차는 국가대표 유니폼 차림의 인물. 흩뿌려지는 물감 효과가 만드는 강렬한 스포츠 포스터.",
+    "style": ["스포츠 포스터"]
+  }
+]
